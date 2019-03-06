@@ -1,17 +1,17 @@
 # site settings
 title: Forty
 subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
+email: yuanzhao@u.northwestern.edu
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 #baseurl: "/test" # the subpath of your site, e.g. /blog
 #url: "https://y-z-zhang.github.io" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+author: Yuanzhao Zhang
+street_address: 2145 Sheridan Rd.
+city: Evanston
+state: IL
+zip_code: 60208
 country: United States of America
-phone: (716) 555-5555
+phone: (224) 803-8563
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
