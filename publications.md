@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Publications
 nav-menu: true
 ---
 
