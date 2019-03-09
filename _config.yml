@@ -2,7 +2,7 @@
 title: Research
 subtitle: by YY
 email: yuanzhao@u.northwestern.edu
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Ph.D. Candidate, northwestern Univ. <br /> Dept. of Physics and Astronomy
 #baseurl: "/test" # the subpath of your site, e.g. /blog
 #url: "https://y-z-zhang.github.io" # the base hostname & protocol for your site
 author: Yuanzhao Zhang
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/zhangyuanzhao45
 
 # build settings
 markdown: kramdown
