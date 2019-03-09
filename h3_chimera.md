@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Switching chimeras
-description: chimeras that are globally attractive and spontaneously switching
-date: 2018-09-15
+description: chimera states that are globally attractive and spontaneously switching
 image: assets/images/basin.jpg
 nav-menu: false
 ---
