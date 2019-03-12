@@ -2,18 +2,16 @@
 layout: home
 title: Home
 landing-title: 'Eric Zhang'
-description: 'test'
+description: null
 image: null
 author: Yuanzhao Zhang
 show_tile: false
 ---
 
-My research focuses on developing methods of networks, dynamical systems, and statistical inference, to solve problems in social and biological systems. I try to keep a tight loop between data and theory, and learn a lot from confronting models and algorithms with real problems.
+I am a fourth year PhD student in Physics at Northwestern University, advised by Adilson E. Motter. My research focuses on dynamical processes on complex networks. In particular, I am developing theoretical and numerical tools to understand the emergence of coherent network dynamics from the decentralized interaction among individual nodes. I try to introduce new mathematical tools (e.g., noncommutative algebra) into the study of network phenomena, while establishing connections between novel theoretical finding and real systems by actively collaborating with experimentalists.
 
-I obtained my PhD in Applied Mathematics from the University of Colorado at Boulder in 2012, advised by Juan G. Restrepo, after which I spent three years as a postdoctoral fellow at the Harvard School of Public Health studying the genetic epidemiology of malaria in the Center for Communicable Disease Dynamics. I then joined the Santa Fe Institute as an Omidyar Fellow until 2017, when I joined the faculty at the University of Colorado Boulder in the Department of Computer Science and the BioFrontiers Institute.
+**Asymmetry-induced synchronization** -
 
-**Networks and theory** - The processes that generate complex networks leave hints about themselves in the patterns of edges, and the relationships between those patterns and vertex metadata. I work on mathematical descriptions of graph ensembles, inference of community structures, vertex ordering or ranking, and using metadata to better understand network formation.
+**Cluster synchronization** - Complex networks can support complex synchronization patterns. Understanding such patterns will enable us to manipulate the proprieties of numerous complex biological, social, and technological systems. I work on a general theory and efficient algorithms to identify, characterize, and control synchronization patterns.
 
-**Malaria's antigenic variation and evolution** - The var genes of the malaria parasite P. falciparum evolve according to complicated and unknown rules, with selective pressures at multiple scales both within hosts and between hosts. I use tools from applied math and statistical physics to understand the structural and evolutionary constraints on var gene evolution, and its their relationships with parasite virulence, population structure, and epidemiology.
-
-**Academic labor market dynamics** - PhDs become faculty each year, but the influences of prestige, advisor, gender, publication record, among other factors, on actual hiring outcomes are not well known, even within individual fields. I investigate inequalities and dynamics of the academic labor market through large-scale data collection and generative models.
+**Chimera states** - One particular interesting type of cluster synchronization pattern is chimera states, where a network of identically coupled identical oscillators spontaneously splits into coherent and incoherent clusters. It represents symmetry breaking phenomena in networks. I discover and investigate novel chimera states, as well as connecting it to other branches of nonlinear dynamics.
