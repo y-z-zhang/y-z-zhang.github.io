@@ -2,7 +2,7 @@
 layout: post
 title: Order out of disorder
 description: random oscillator heterogeneity consistently promotes synchronized rhythm
-image: assets/images/disorder.png
+image: assets/images/mtle.png
 nav-menu: false
 ---
 
