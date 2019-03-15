@@ -3,8 +3,8 @@ title: Research
 subtitle: by YY
 email: yuanzhao@u.northwestern.edu
 description: Ph.D. Candidate, <br /> Department of Physics and Astronomy, <br /> Northwestern University, <br /> <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Yuanzhao_Zhang">Research Gate</a>, <a href="assets/pdf/cv.pdf">CV</a>
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://y-z-zhang.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://y-zhang.com" #"https://y-z-zhang.github.io" # the base hostname & protocol for your site
 author: Yuanzhao Zhang
 street_address: 2145 Sheridan Rd.
 city: Evanston
