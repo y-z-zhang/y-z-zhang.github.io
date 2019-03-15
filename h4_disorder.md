@@ -8,4 +8,4 @@ nav-menu: false
 
 Hello world!
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen="1"> </iframe>
+<iframe width="480" height="360" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0"> </iframe>
