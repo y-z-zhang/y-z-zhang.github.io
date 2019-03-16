@@ -8,6 +8,4 @@ nav-menu: false
 
 Hello world!
 
-<P ALIGN=CENTER>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u6i2XwrGVqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" align="middle" allowfullscreen></iframe>
-</P>
+<P ALIGN=CENTER> <iframe width="560" height="315" src="https://www.youtube.com/embed/u6i2XwrGVqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" align="middle" allowfullscreen></iframe> </P>
