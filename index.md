@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Eric Zhang'
+landing-title: 'Yuanzhao Zhang'
 description: null
 image: null
 author: Yuanzhao Zhang
