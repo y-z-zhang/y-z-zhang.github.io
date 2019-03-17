@@ -18,11 +18,11 @@ nav-menu: true
 This clip shows the dynamics of a switching chimera state and its space-time plot. The switching between the coherent and incoherent clusters can be triggered by arbitrarily small noise.
 
 <div class="align-center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/uK2PxvkH2XA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="1000" height="315" src="https://www.youtube.com/embed/uK2PxvkH2XA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Gallery
-You can download the original file (72000x72000 resolution, around 1 Gigabyte) for the riddled basin of the chimera states [here](/assets/images/basin.jpg) and fully explore its stunning details.
+You can download the original file (72000x72000 resolution, around 1 Gigabyte) for the riddled basin of the chimera states [here](/assets/images/basin.jpg) and fully explore its stunning details. This image is the winner of the [2018 Northwestern Science Images Contest](https://bit.ly/2EzP3BX).
 
 
 ### References
