@@ -14,8 +14,11 @@ nav-menu: false
 > Our results suggest that, rather than being eliminated or ignored, intrinsic disorder can be harnessed to help maintain coherent dynamics in technological and biological systems.
 
 ### Animation
+Below is a short animation demonstrating the key finding of this study. It shows the dynamics of four systems of delay-coupled Stuart-Landau oscillators, which are identical to each other except the amount of disorder in the system. The systems with no or strong disorder both lose synchrony and become incoherent; systems with intermediate disorder, however, are able to maintain a synchronized rhythm indefinitely.
+
 <div class="align-center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/u6i2XwrGVqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" align="middle" allowfullscreen></iframe>
 </div>
 
+### References
 * **Y. Zhang** and A. E. Motter, *Disorder beats design in network synchronization*, under review
