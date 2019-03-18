@@ -8,7 +8,7 @@ author: Yuanzhao Zhang
 show_tile: false
 ---
 
-I am a fourth year PhD student in Physics at Northwestern University, advised by Adilson E. Motter. My research focuses on dynamical processes on complex networks. In particular, I am developing theoretical and numerical tools to understand the emergence of coherent network dynamics from the decentralized interaction among individual nodes. I try to introduce new mathematical tools (e.g., noncommutative algebra) into the study of network phenomena, while establishing connections between novel theoretical findings and real systems by actively collaborating with experimentalists.
+I am a fourth year PhD student in Physics at Northwestern University, advised by [Adilson E. Motter](http://dyn.phys.northwestern.edu/). My research focuses on dynamical processes on complex networks. In particular, I am developing theoretical and numerical tools to understand the emergence of coherent network dynamics from the decentralized interaction among individual nodes. I try to introduce new mathematical tools (e.g., noncommutative algebra) into the study of network phenomena, while establishing connections between novel theoretical findings and real systems by actively collaborating with experimentalists.
 
 **Uniformity out of diversity** - Synchronization among interacting units is a process that underlies the function of many network systems. It is commonly believed that homogeneity among the units is beneficial and often necessary for coherent dynamics to emerge. However, the opposite is not only possible but also common in oscillator networks. My work tries to establish the generality of this counter-intuitive phenomenon and elucidate the underlying mechanisms.
 
