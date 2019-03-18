@@ -6,4 +6,15 @@ image: assets/images/topo.png
 nav-menu: false
 ---
 
-Hello world!
+### Abstract
+> Symmetries are ubiquitous in network systems and have profound impacts on the observable dynamics.
+> At the most fundamental level, many synchronization patterns are induced by underlying network symmetry, and a high degree of symmetry is believed to enhance the stability of identical synchronization.
+> Yet, here we show that the synchronizability of almost any symmetry cluster in a network of identical nodes can be enhanced precisely by breaking its structural symmetry.
+> This counterintuitive effect holds for generic node dynamics and arbitrary network structure and is, moreover, robust against noise and imperfections typical of real systems, which we demonstrate by implementing a state-of-the-art optoelectronic experiment.
+> These results lead to new possibilities for the topological control of synchronization patterns, which we substantiate by presenting an algorithm that optimizes the structure of individual clusters under various constraints.
+
+### Code
+Our simulated annealing algorithm to improve the synchronizability of oscillator networks through minimal link rewiring, removal, or addition can be found [here](https://github.com/y-z-zhang/optimize_sym_cluster).
+
+### References
+* J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: trading symmetry for stability*, [Phys. Rev. Lett. 122 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
