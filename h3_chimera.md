@@ -24,6 +24,10 @@ This clip shows the dynamics of a switching chimera state and its space-time plo
 ### Gallery
 You can download the original file (7200x7200 resolution, around 20 Mb) for the riddled basin of the chimera states [here](/assets/images/basin.jpg) and fully explore its stunning details. This image is the winner of the [2018 Northwestern Science Images Contest](https://bit.ly/2EzP3BX).
 
+<div class="align-center">
+  <iframe allowfullscreen="true" src="https://easyzoom.com/embed/96218" width="480" height="270"></iframe>
+</div>
+
 
 ### References
 * **Y. Zhang**, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching behavior in globally attractive chimera states*, under review
