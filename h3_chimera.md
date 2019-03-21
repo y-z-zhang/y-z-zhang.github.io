@@ -2,7 +2,7 @@
 layout: post
 title: Switching chimeras
 description: chimera states that are globally attractive and spontaneously switching
-image: assets/images/basin2.jpg
+image: assets/images/basin2.png
 nav-menu: true
 ---
 
