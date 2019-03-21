@@ -2,7 +2,7 @@
 layout: post
 title: Switching chimeras
 description: chimera states that are globally attractive and spontaneously switching
-image: assets/images/basin.jpg
+image: assets/images/basin2.jpg
 nav-menu: true
 ---
 
@@ -14,13 +14,6 @@ nav-menu: true
 >Experiments on coupled optoelectronic oscillators demonstrate the genericity and robustness of the global switching chimeras reported here.
 >The results have implications for symmetry breaking in dynamical systems and the impact of noise at singular limits.
 
-### Animation
-This clip shows the dynamics of a switching chimera state and its space-time plot. The switching between the coherent and incoherent clusters can be triggered by arbitrarily small noise.
-
-<div class="align-center">
-  <iframe width="1000" height="315" src="https://www.youtube.com/embed/uK2PxvkH2XA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ### Gallery
 You can download the original file (7200x7200 resolution, around 20 Mb) for the riddled basin of the chimera states [here](/assets/images/basin.jpg) and fully explore its stunning details. This image is the winner of the [2018 Northwestern Science Images Contest](https://bit.ly/2EzP3BX).
 
@@ -28,6 +21,12 @@ You can download the original file (7200x7200 resolution, around 20 Mb) for the 
   <iframe allowfullscreen="true" src="https://easyzoom.com/embed/96218" width="480" height="270"></iframe>
 </div>
 
+### Animation
+This clip shows the dynamics of a switching chimera state and its space-time plot. The switching between the coherent and incoherent clusters can be triggered by arbitrarily small noise.
+
+<div class="align-center">
+  <iframe width="1000" height="315" src="https://www.youtube.com/embed/uK2PxvkH2XA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### References
 * **Y. Zhang**, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching behavior in globally attractive chimera states*, under review
