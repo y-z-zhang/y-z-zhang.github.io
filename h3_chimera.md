@@ -19,15 +19,15 @@ You can fully explore the stunning details of the riddled basins of the switchin
 You can also download a high-resolution file (7200x7200 resolution, around 12 MB) [here](/assets/images/basin1.png).
 This image is the winner of the [2018 Northwestern Science Images Contest](https://bit.ly/2EzP3BX).
 
-<div class="align-center">
-  <iframe allowfullscreen="true" src="https://easyzoom.com/embed/96218" width="480" height="270"></iframe>
+<div class="resp-container-square">
+  <iframe class="resp-iframe" allowfullscreen="true" src="https://easyzoom.com/embed/96218"></iframe>
 </div>
 
 ### Animation
 This clip shows the dynamics of a switching chimera state and its space-time plot. The switching between the coherent and incoherent clusters can be triggered by arbitrarily small noise.
 
-<div class="align-center">
-  <iframe width="1000" height="315" src="https://www.youtube.com/embed/uK2PxvkH2XA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container-narrow">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/PIVgurLIGN0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### References

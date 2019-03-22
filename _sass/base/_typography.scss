@@ -178,6 +178,18 @@
     padding-top: 56.25%;
 	}
 
+	.resp-container-narrow {
+    position: relative;
+    overflow: hidden;
+    padding-top: 23%;
+	}
+
+	.resp-container-square {
+    position: relative;
+    overflow: hidden;
+    padding-top: 100%;
+	}
+
 	.resp-iframe {
     position: absolute;
     top: 2em;
