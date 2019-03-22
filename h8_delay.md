@@ -12,8 +12,8 @@ nav-menu: false
 ### Animation
 This movie starts with two systems of identical oscillators, denoted by +h and -h, respectively. Both systems are unstable and eventually become desynchronized. Half way through the video, we changed the off-diagonal systems from homogeneous to heterogeneous, which consists of a mixture of +h and -h oscillators. This heterogeneous system is able to maintain synchronization, either in the form of limit-cycle oscillation or oscillation death.
 
-<div class="align-center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XB_yALjpeMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/XB_yALjpeMg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### References
