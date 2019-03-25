@@ -15,7 +15,7 @@ nav-menu: true
 >The results have implications for symmetry breaking in dynamical systems and the impact of noise at singular limits.
 
 ### Gallery
-You can fully explore the stunning details of the riddled basins of the switching chimera by zooming in on the interactive image below (36000x36000 resolution).
+You can explore the details of the riddled basins of the switching chimera by zooming in on the interactive image below.
 You can also download a high-resolution file (7200x7200 resolution, around 12 MB) [here](/assets/images/basin1.png).
 This image is the winner of the [2018 Northwestern Science Images Contest](https://bit.ly/2EzP3BX).
 
