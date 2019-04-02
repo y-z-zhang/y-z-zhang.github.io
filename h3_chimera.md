@@ -20,7 +20,7 @@ You can also download a high-resolution file (7200x7200 resolution, around 12 MB
 This image is the winner of the [2018 Northwestern Science Images Contest](https://bit.ly/2EzP3BX).
 
 <div class="resp-container-square">
-  <iframe class="resp-iframe" allowfullscreen="true" src="https://www.easyzoom.com/embed/1d9c8d2d3b7548cfa348135240cb2e42"></iframe>
+  <iframe class="resp-iframe" allowfullscreen="true" src="https://www.easyzoom.com/embed/ac392371a68347d1bf632935660f0216"></iframe>
 </div>
 
 ### Animation
