@@ -202,15 +202,14 @@
     border: 0;
 	}
 
-	@media screen and (min-width:900px) {
-		.resp-container {
-	    padding-top: 28%;
-		}
+	.grid-container {
+  display: grid;
+	grid-template-columns: auto auto;
+  grid-gap: 10px;
+	}
 
-   	.resp-iframe{
-			width: 45%;
-			height: 100%;
-		}
+	.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
 	}
 
 	.flex-container {
