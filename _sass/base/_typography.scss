@@ -210,8 +210,8 @@
     align-items:stretch;
 	}
 
-	.left {order:1; flex-basis:100%;}
-	.right {order:2; flex-basis:100%;}
+	.left {order:1; flex-basis:100%; height:300px}
+	.right {order:2; flex-basis:100%; height:300px}
 
 	@media screen and (min-width:900px) {
    	.flex-container {
@@ -219,11 +219,11 @@
    	}
 
     .left {
-        flex-basis:45%;
+        flex-basis:40%;
         order:1;
     }
     .right {
-        flex-basis:45%;
+        flex-basis:40%;
         order:2;
     }
 	}
