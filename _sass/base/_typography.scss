@@ -205,7 +205,7 @@
 	.grid-container {
   	display: grid;
   	grid-template-columns: auto auto;
-		grid-auto-rows: minmax(200px, auto);
+		grid-auto-rows: minmax(300px, auto);
 		grid-gap: 10px;
 	}
 	.grid-item {
