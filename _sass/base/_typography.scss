@@ -211,9 +211,9 @@
 	.grid-item {
   	text-align: center;
 	}
-	@media screen and (min-width:600px) and (max-width:1000px) {
+	@media screen and (min-width:600px) and (max-width:1200px) {
 		.grid-container {
-			grid-template-columns: auto;
+			grid-template-columns: auto auto;
 			grid-auto-rows: minmax(auto, 250px);
 		}
 	}
