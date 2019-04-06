@@ -202,23 +202,18 @@
     border: 0;
 	}
 
-	@media screen and (min-width:900px) {
-		.resp-container {
-			padding-top: 28%;
-		}
-
-		.resp-iframe{
-			width: 45%;
-			height: 100%;
-		}
-	}
-
 	.grid-container {
   	display: grid;
   	grid-template-columns: auto auto;
 		grid-gap: 10px;
-		padding-bottom: 56.25%;
+		padding-top: 56.25%;
 	}
 	.grid-item {
   	text-align: center;
+	}
+
+	@media screen and (max-width:900px) {
+		.grid-container {
+			grid-template-columns: auto;
+		}
 	}
