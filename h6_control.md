@@ -17,8 +17,8 @@ nav-menu: false
 Our simulated annealing algorithm to improve the synchronizability of oscillator networks through minimal link rewiring, removal, or addition can be found [here](https://github.com/y-z-zhang/optimize_sym_cluster).
 
 ### Press
-* [Scientists Discover Exotic New Patterns of Synchronization---_Quanta Magazine_](https://www.quantamagazine.org/physicists-discover-exotic-patterns-of-synchronization-20190404/)
-* [The Math of How Crickets, Starlings, and Neurons Sync Up---_Wired_](https://www.wired.com/story/the-math-of-how-crickets-starlings-and-neurons-sync-up)
+* [Scientists Discover Exotic New Patterns of Synchronization---Quanta Magazine](https://www.quantamagazine.org/physicists-discover-exotic-patterns-of-synchronization-20190404/)
+* [The Math of How Crickets, Starlings, and Neurons Sync Up---Wired](https://www.wired.com/story/the-math-of-how-crickets-starlings-and-neurons-sync-up)
 
 ### References
 * J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: trading symmetry for stability*, [Phys. Rev. Lett. 122 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
