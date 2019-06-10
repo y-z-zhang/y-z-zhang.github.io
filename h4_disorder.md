@@ -21,4 +21,4 @@ Below is a short animation demonstrating the key finding of this study. It shows
 </div>
 
 ### References
-* **Y. Zhang** and A. E. Motter, *Disorder beats design in network synchronization*, under review
+* **Y. Zhang** and A. E. Motter, *Disorder beats design in network synchronization*, in preparation

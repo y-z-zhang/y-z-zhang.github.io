@@ -18,4 +18,4 @@ nav-menu: false
 Our Matlab code to find the finest simultaneous block diagonalization of matrices can be found [here](https://github.com/y-z-zhang/net-sync-sym).
 
 ### References
-* **Y. Zhang** and A. E. Motter, *Fast, unified, and symmetry-independent approach to network synchronization*, under review
+* **Y. Zhang** and A. E. Motter, *Fast, unified, and symmetry-independent approach to network synchronization*, in preparation
