@@ -8,14 +8,14 @@ nav-menu: false
 
 ### Abstract
 > The field of network synchronization has seen tremendous growth in the past two decades following the introduction of the master stability function (MSF) formalism, which enables the efficient stability analysis of identical synchronization in large oscillator networks.
-> However, to make further progress we must overcome the limitations of this celebrated formalism, which requires both the oscillators and their interactions, as well as the form of synchronization to be identical.
+> However, to make further progress we must overcome the limitations of this celebrated formalism, which focuses on identical synchronization and requires both the oscillators and their interactions to be identical.
 > Here, we establish a generalization of the MSF formalism that can probe the stability of any cluster synchronization pattern when the oscillators or their interactions are allowed to be nonidentical.
 > The new framework utilizes the finest simultaneous block diagonalization of matrices and does not rely on information about network symmetry.
-> This leads to an algorithm that is error-tolerant and orders-of-magnitude faster than existing symmetry-based methods using irreducible group representations.
-> As an application, we study chimera states in multilayer networks and rigorously characterize their stability.
+> This leads to an algorithm that is error-tolerant and orders-of-magnitude faster than existing symmetry-based algorithms using irreducible group representations.
+> As an application, we study chimera states in networks with multiple types of interactions and rigorously characterize their stability.
 
 ### Code
-Our Matlab code to find the finest simultaneous block diagonalization of matrices can be found [here](https://github.com/y-z-zhang/net-sync-sym).
+Our Matlab code to find a finest simultaneous block diagonalization of matrices can be found [here](https://github.com/y-z-zhang/net-sync-sym).
 
 ### References
 * **Y. Zhang** and A. E. Motter, *Fast and symmetry-independent stability analysis of cluster synchronization patterns*, in preparation
