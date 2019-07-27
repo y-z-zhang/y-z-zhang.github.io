@@ -27,7 +27,7 @@ This image is the winner of the [2018 Northwestern Science Images Contest](https
 -->
 
 ### Gallery
-riddled basins of the switching chimera
+Riddled basins of switching chimeras
 
 {% include image-gallery.html folder="assets/images/basins/" %}
 
