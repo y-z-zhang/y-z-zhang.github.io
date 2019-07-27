@@ -14,14 +14,17 @@ nav-menu: true
 > Rigorous numerical analysis reveals that the critical switching behavior originates from riddled basins of attraction associated with the two subchimeras, which in turn are induced by chaos and symmetry in the system.
 > Our theoretical results are supported by experiments on coupled optoelectronic oscillators that demonstrate the generality and robustness of switching chimeras.
 
+<!--
 ### Gallery
 You can explore the details of the riddled basins of the switching chimera by zooming in on the interactive image below.
 You can also download a high-resolution file (7200x7200 resolution, around 12 MB) [here](/assets/images/basin1.png).
 This image is the winner of the [2018 Northwestern Science Images Contest](https://bit.ly/2EzP3BX).
 
+
 <div class="resp-container-square">
   <iframe class="resp-iframe" allowfullscreen="true" src="https://www.easyzoom.com/embed/ac392371a68347d1bf632935660f0216"></iframe>
 </div>
+-->
 
 ### Animation
 This clip shows the dynamics of a switching chimera state and its space-time plot. The switching between the coherent and incoherent clusters can be triggered by arbitrarily small noise.
