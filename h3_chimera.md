@@ -26,7 +26,7 @@ This image is the winner of the [2018 Northwestern Science Images Contest](https
 </div>
 -->
 
-{% include image-gallery.html folder="assets/images/" %}
+{% include image-gallery.html folder="assets/images/basins/" %}
 
 ### Animation
 This clip shows the dynamics of a switching chimera state and its space-time plot. The switching between the coherent and incoherent clusters can be triggered by arbitrarily small noise.
