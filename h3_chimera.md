@@ -26,6 +26,9 @@ This image is the winner of the [2018 Northwestern Science Images Contest](https
 </div>
 -->
 
+### Gallery
+riddled basins of the switching chimera
+
 {% include image-gallery.html folder="assets/images/basins/" %}
 
 ### Animation
