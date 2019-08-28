@@ -6,7 +6,7 @@ nav-menu: true
 
 * **Y. Zhang**, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, under review
 * **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, under review
-* **Y. Zhang** and A. E. Motter, *Disorder beats design in network synchronization*, in preparation
+* **Y. Zhang**, J. L. Ocampo Espindola, I. Z. Kiss, and A. E. Motter, *Disorder beats design in network synchronization*, in preparation
 
 1. J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: trading symmetry for stability*, [Phys. Rev. Lett. 122 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
 2. __Y. Zhang__ and A. E. Motter, *Identical synchronization of nonidentical oscillators: when only birds of different feathers flock together*, [Nonlinearity 31 R1-R23 (2018)](https://doi.org/10.1088/1361-6544/aa8fe7)
