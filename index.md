@@ -8,7 +8,7 @@ author: Yuanzhao Zhang
 show_tile: false
 ---
 
-I am a fourth year PhD student in Physics at Northwestern University, advised by [Adilson E. Motter](http://dyn.phys.northwestern.edu/). My research focuses on collective dynamics on complex networks. In particular, I am developing theoretical and numerical tools to understand the emergence of complex synchronization patterns from the decentralized interaction among individual nodes. I am also actively collaborating with experimentalists to connect my theory with real systems.
+I am a fifth year PhD student in Physics at Northwestern University, advised by [Adilson E. Motter](http://dyn.phys.northwestern.edu/). My research focuses on collective dynamics on complex networks. In particular, I am developing theoretical and numerical tools to understand the emergence of complex synchronization patterns from the decentralized interaction among individual nodes. I am also actively collaborating with experimentalists to connect my theory with real systems.
 
 **Uniformity out of diversity** - Synchronization among interacting units is a process that underlies the function of many network systems. It is commonly believed that homogeneity among the units is beneficial and often necessary for uniform dynamics to emerge. However, my works show that the opposite is not only possible but also common in oscillator networks. I am currently working on a theory to elucidate the underlying mechanisms behind this counter-intuitive phenomenon. Such insights can have profound implications for real-world systems whose functions rely on the synchronization of diverse units, including circadian clocks and power grids.
 
