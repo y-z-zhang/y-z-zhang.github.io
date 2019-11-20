@@ -1,18 +1,18 @@
 ---
 layout: post
 title: Switching chimeras
-description: chimera states that are globally attractive and spontaneously switching
+description: chimera states that are globally attractive and exhibit power-law switching behavior
 image: assets/images/basin2.png
 nav-menu: true
 ---
 
 ### Abstract
-> We report on a new type of chimera state that attracts almost all initial conditions and exhibits critical switching behavior in networks of chaotic oscillators.
-> Such switching chimeras consist of two symmetric subchimeras, in which one cluster is synchronized and the other is incoherent.
-> Despite each subchimera being linearly stable, switching chimeras are extremely sensitive to noise: arbitrarily small noise triggers and sustains perpetual switching between the two symmetric subchimeras.
+> We report on a new type of chimera state that attracts almost all initial conditions and exhibits power-law switching behavior in networks of coupled oscillators.
+> Such switching chimeras consist of two symmetric configurations, which we refer to as subchimeras, in which one cluster is synchronized and the other is incoherent.
+> Despite each subchimera being linearly stable, switching chimeras are extremely sensitive to noise: arbitrarily small noise triggers and sustains persistent switching between the two symmetric subchimeras.
 > The average switching frequency increases as a power law with the noise intensity, which is in contrast with the exponential scaling observed in typical stochastic transitions.
-> Rigorous numerical analysis reveals that the critical switching behavior originates from riddled basins of attraction associated with the two subchimeras, which in turn are induced by chaos and symmetry in the system.
-> Our theoretical results are supported by experiments on coupled optoelectronic oscillators that demonstrate the generality and robustness of switching chimeras.
+> Rigorous numerical analysis reveals that the power-law switching behavior originates from intermingled basins of attraction associated with the two subchimeras, which in turn are induced by chaos and symmetry in the system.
+> The theoretical results are supported by experiments on coupled optoelectronic oscillators, which demonstrate the generality and robustness of switching chimeras.
 
 <!--
 ### Gallery
@@ -27,7 +27,7 @@ This image is the winner of the [2018 Northwestern Science Images Contest](https
 -->
 
 ### Gallery
-Riddled basins of switching chimeras
+Intermingled basins of switching chimeras
 
 {% include image-gallery.html folder="assets/images/basins/" %}
 
