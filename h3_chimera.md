@@ -39,4 +39,4 @@ This clip shows the dynamics of a switching chimera state and its space-time plo
 </div>
 
 ### References
-* **Y. Zhang**, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, under review
+* **Y. Zhang**, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [arXiv:1911.07871](https://arxiv.org/abs/1911.07871)

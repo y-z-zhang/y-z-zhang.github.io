@@ -4,7 +4,7 @@ title: Publications
 nav-menu: true
 ---
 
-* **Y. Zhang**, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, under review
+* **Y. Zhang**, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [arXiv:1911.07871](https://arxiv.org/abs/1911.07871)
 * **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, under review
 * **Y. Zhang**, J. L. Ocampo Espindola, I. Z. Kiss, and A. E. Motter, *Disorder beats design in network synchronization*, in preparation
 
