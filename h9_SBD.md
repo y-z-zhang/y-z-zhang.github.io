@@ -18,4 +18,4 @@ nav-menu: false
 Our Matlab code to find a finest simultaneous block diagonalization of matrices can be found [here](https://github.com/y-z-zhang/net-sync-sym).
 
 ### References
-* **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, under review
+* **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, to appear in SIAM Rev.

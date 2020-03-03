@@ -31,6 +31,9 @@ Intermingled basins of switching chimeras
 
 {% include image-gallery.html folder="assets/images/basins/" %}
 
+### Press
+* [‘Beauty of Science’ Winner Captures Network Synchronization with Striking Image---Northwestern Research](https://www.research.northwestern.edu/beauty-science-winner-captures-network-synchronization-striking-image/)
+
 ### Animation
 This clip shows the dynamics of a switching chimera state and its space-time plot. The switching between the coherent and incoherent clusters can be triggered by arbitrarily small noise.
 
