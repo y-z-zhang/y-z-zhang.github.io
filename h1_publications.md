@@ -4,7 +4,7 @@ title: Publications
 nav-menu: true
 ---
 
-* **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, to appear in SIAM Rev.
+* **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [arXiv:2003.05461](https://arxiv.org/abs/2003.05461), to appear in SIAM Rev.
 
 1. __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
 1. J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: trading symmetry for stability*, [Phys. Rev. Lett. 122 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
