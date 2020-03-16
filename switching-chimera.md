@@ -4,6 +4,7 @@ title: Switching chimeras
 description: chimera states that are globally attractive and exhibit power-law switching behavior
 image: assets/images/basin2.png
 nav-menu: true
+tags: 3
 ---
 
 ### Abstract

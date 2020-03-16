@@ -12,8 +12,10 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% for page in site.pages limit:site.tiles-count %}
-  {% if site.tiles-source == 'pages' and page.show_tile != false and page.tags == 'first' %}
+  <!-- {% for page in site.pages limit:site.tiles-count %} -->
+  {% for tag in site.tags %}
+  {% for page in tag %}
+  {% if site.tiles-source == 'pages' and page.show_tile != false%}
   <article>
     <span class="image">
       <img src="{{ page.image }}" alt="" />
@@ -24,5 +26,6 @@
     </header>
   </article>
   {% endif %}
+  {% endfor %}
   {% endfor %}
 </section>

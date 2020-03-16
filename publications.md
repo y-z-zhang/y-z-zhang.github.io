@@ -2,7 +2,7 @@
 layout: post
 title: Publications
 nav-menu: true
-tags: first
+tags: 1
 ---
 
 * **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [arXiv:2003.05461](https://arxiv.org/abs/2003.05461), to appear in SIAM Review
