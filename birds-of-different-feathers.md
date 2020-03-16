@@ -4,6 +4,7 @@ title: Identical synchronization of nonidentical oscillators
 description: a general mathematical framework to study the identical synchronization of nonidentical oscillators and its applications
 image: assets/images/delay.png
 nav-menu: false
+show_tile: true
 order: 7
 ---
 
