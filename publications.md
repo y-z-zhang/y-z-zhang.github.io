@@ -2,6 +2,7 @@
 layout: post
 title: Publications
 nav-menu: true
+tags: research
 order: 1
 ---
 

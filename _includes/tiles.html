@@ -12,7 +12,7 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% assign ordered_pages = site.pages | sort: "order" %}
+  {% assign ordered_pages = site.tags.research | sort: "order" %}
   {% for page in ordered_pages limit:site.tiles-count %}
   {% if site.tiles-source == 'pages'%}
   <article>
