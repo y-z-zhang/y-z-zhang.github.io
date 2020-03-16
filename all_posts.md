@@ -6,7 +6,7 @@ nav-menu: false
 description: null
 image: null
 author: null
-show_tile: false
+order: 23
 ---
 
 <h1>All posts</h1>

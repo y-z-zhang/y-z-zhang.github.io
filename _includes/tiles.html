@@ -13,7 +13,7 @@
   {% endif %}
   {% endfor %}
   {% assign ordered_pages = site.pages | sort: "order" %}
-  {% for page in ordered_pages %}
+  {% for page in ordered_pages limit:site.tiles-count %}
   {% if site.tiles-source == 'pages'%}
   <article>
     <span class="image">

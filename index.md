@@ -5,7 +5,7 @@ landing-title: 'Yuanzhao Zhang'
 description: null
 image: null
 author: Yuanzhao Zhang
-show_tile: false
+order: 23
 ---
 
 I am a fifth-year PhD candidate in Physics at Northwestern University, advised by [Adilson E. Motter](http://dyn.phys.northwestern.edu/). My research focuses on collective dynamics on complex networks. In particular, I am developing theoretical and numerical tools to understand the emergence of intricate synchronization patterns from the decentralized interaction among individual units. I am also actively collaborating with experimentalists to connect my theory with real systems.
