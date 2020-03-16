@@ -12,9 +12,9 @@
   </article>
   {% endif %}
   {% endfor %}
-  {% assign ordered_pages = site.pages | sort: "order" %}
+  {% assign ordered_pages = site.pages | where: "show_tile" | sort: "order" %}
   {% for page in ordered_pages limit:site.tiles-count %}
-  {% if site.tiles-source == 'pages' and page.show_tile == true %}
+  {% if site.tiles-source == 'pages' %}
   <article>
     <span class="image">
       <img src="{{ page.image }}" alt="" />
