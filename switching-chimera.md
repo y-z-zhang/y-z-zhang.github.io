@@ -5,7 +5,7 @@ description: chimera states that are globally attractive and exhibit power-law s
 image: assets/images/basin2.png
 nav-menu: true
 show_tile: true
-order: 4
+order: 3
 ---
 
 ### Abstract
