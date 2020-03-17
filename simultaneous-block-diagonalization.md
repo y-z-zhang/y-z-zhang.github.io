@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Symmetry-independent stability analysis of cluster synchronization patterns
+title: Finest simultaneous block diagonalization
 description: a fast, versatile, and symmetry-independent algorithm to characterize the stability of network synchronization patterns
 image: assets/images/SBD.png
 nav-menu: false
