@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Optimal stability analysis of synchronization patterns
-description: a fast, error-tolerant, and symmetry-independent algorithm to optimally decouple variational equations
+title: Symmetry-independent stability analysis of cluster synchronization patterns
+description: a fast, versatile, and symmetry-independent algorithm to characterize the stability of network synchronization patterns
 image: assets/images/SBD.png
 nav-menu: false
 show_tile: true

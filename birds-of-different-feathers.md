@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Identical synchronization of nonidentical oscillators
-description: a general mathematical framework to study the identical synchronization of nonidentical oscillators and its applications
+title: When only birds of different feathers flock together
+description: a general mathematical framework to study the identical synchronization of nonidentical oscillators
 image: assets/images/delay.png
 nav-menu: false
 show_tile: true
