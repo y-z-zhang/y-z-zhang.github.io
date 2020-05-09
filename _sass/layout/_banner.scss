@@ -18,9 +18,9 @@
 		border-bottom: 0 !important;
 		cursor: default;
 		height: auto;
-		margin-bottom: -3.25em;
+		margin-bottom: -2em;
 		position: relative;
-		top: -3.25em;
+		top: -2em;
 
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
