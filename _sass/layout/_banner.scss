@@ -20,6 +20,7 @@
 		height: auto;
 		margin-bottom: -3.25em;
 		position: relative;
+		top: -3.25em;
 
 		&:after {
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
