@@ -2,8 +2,8 @@
 layout: home
 title: Home
 landing-title: 'Yuanzhao Zhang'
-description: null
-image: null
+description: bio
+image: assets/images/basin1.jpg
 author: Yuanzhao Zhang
 ---
 
