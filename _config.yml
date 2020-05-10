@@ -16,7 +16,7 @@ phone: (224) 803-8563
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 11
+tiles-count: 14
 
 # social settings
 500px_url:
