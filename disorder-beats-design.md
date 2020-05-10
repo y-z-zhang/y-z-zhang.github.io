@@ -2,7 +2,7 @@
 layout: post
 title: Order out of disorder
 description: for interacting entities, sometimes to converge they must diverge
-image: assets/images/mtle.png
+image: assets/images/disorder_trj.png
 nav-menu: false
 show_tile: true
 order: 9

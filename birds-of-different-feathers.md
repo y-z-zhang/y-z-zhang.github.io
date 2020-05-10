@@ -5,7 +5,7 @@ description: a general mathematical framework to study the identical synchroniza
 image: assets/images/delay.png
 nav-menu: false
 show_tile: true
-order: 7
+order: 8
 ---
 
 ### Abstract

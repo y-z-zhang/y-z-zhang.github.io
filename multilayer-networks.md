@@ -5,7 +5,7 @@ description: breaking the symmetry in a multilayer network can increase the symm
 image: assets/images/multilayer_full.png
 nav-menu: false
 show_tile: true
-order: 8
+order: 4
 ---
 
 ### Abstract
