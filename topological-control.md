@@ -8,6 +8,9 @@ show_tile: true
 order: 5
 ---
 
+### Overview
+Different synchronization patterns are critical to the function of numerous systems (e.g., information processing in the brain). In practice, it is often important to be able to control these dynamical patterns without modifying individual nodes. In this work, we proposed a new control strategy based on minimal perturbations of the network structure.
+
 ### Abstract
 > Symmetries are ubiquitous in network systems and have profound impacts on the observable dynamics.
 > At the most fundamental level, many synchronization patterns are induced by underlying network symmetry, and a high degree of symmetry is believed to enhance the stability of identical synchronization.
