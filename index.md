@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Yuanzhao Zhang (章元肇)'
-description: bio
+description: Research Homepage of Yuanzhao Zhang
 image: null
 author: Yuanzhao Zhang
 ---
