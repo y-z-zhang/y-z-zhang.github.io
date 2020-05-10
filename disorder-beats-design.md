@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Order out of disorder
-description: random oscillator heterogeneity consistently promotes synchronized rhythm
+description: for interacting entities, sometimes to converge they must diverge
 image: assets/images/mtle.png
 nav-menu: false
 show_tile: true
 order: 9
 ---
+
+### Overview
+We show that disorder in the form of random oscillator heterogeneity can consistently rescue networks from losing synchronized rhythm. This suggests that, rather than being eliminated or ignored, intrinsic disorder can be harnessed to help maintain coherent dynamics in technological and biological systems.
 
 ### Abstract
 > A fundamental and widely held assumption on network dynamics is that similar agents are more likely to exhibit similar behavior than dissimilar ones, and that generic differences among them are necessarily detrimental to synchronization.
