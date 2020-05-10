@@ -8,6 +8,9 @@ show_tile: true
 order: 6
 ---
 
+### Overview
+Many biological and technological networks show intricate synchronization patterns during normal operations, where several internally coherent but mutually independent clusters coexist. Which synchronization patterns we can ultimately observe are determined by their stabilities. Building on the mathematical theory of noncommutative algebra, we developed a fast, versatile, and symmetry-independent algorithm to analyze network synchronization patterns.
+
 ### Abstract
 > The field of network synchronization has seen tremendous growth following the introduction of the master stability function (MSF) formalism, which enables the efficient stability analysis of synchronization in large oscillator networks.
 > However, to make further progress we must overcome the limitations of this celebrated formalism, which focuses on global synchronization and requires both the oscillators and their interactions to be identical, while many systems of interest are inherently heterogeneous and exhibit complex synchronization patterns.
