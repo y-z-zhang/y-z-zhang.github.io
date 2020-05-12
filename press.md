@@ -16,3 +16,5 @@ order: 3
 [//]: # ([Yuanzhao Zhang Named Schmidt Science Fellow---Northwestern Physics](https://www.physics.northwestern.edu/about/news/2020/yuanzhao-zhang-named-schmidt-science-fellow.html))
 [//]: # (https://jwcdaily.com/2016/07/28/the-science-of-dance/)
 [//]: # (https://www.alyssaemotter.com/new-gallery-1/2018/4/20/syncing-up-without-sameness)
+[//]: # (SIAM Student Chapter Certificate of Recognition)
+[//]: # (Complexity Postdoctoral Fellowship)
