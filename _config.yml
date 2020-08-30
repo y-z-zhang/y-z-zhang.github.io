@@ -1,19 +1,19 @@
 # site settings
 title: Yuanzhao Zhang
 subtitle: Network Dynamics & Complex Systems
-email: yuanzhao@u.northwestern.edu
+email: zhangyuanzhao45@gmail.com
 description: Research Homepage of Yuanzhao Zhang
-bio: Ph.D. Candidate, Department of Physics and Astronomy, Northwestern University <br /> <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Yuanzhao_Zhang">Research Gate</a> | <a href="https://orcid.org/0000-0002-2056-7755">ORCID</a>
+bio: Postdoctoral Fellow, Center for Applied Mathematics, Cornell University <br /> <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Yuanzhao_Zhang">Research Gate</a> | <a href="https://orcid.org/0000-0002-2056-7755">ORCID</a>
 #| <a href="assets/cv.pdf">Curriculum Vitae</a>
 #baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://y-zhang.com" #"https://y-z-zhang.github.io" # the base hostname & protocol for your site
 author: Yuanzhao Zhang
-street_address: 2145 Sheridan Rd.
-city: Evanston
-state: IL
-zip_code: 60208
-country: United States of America
-phone: (224) 803-8563
+street_address:
+city:
+state:
+zip_code:
+country:
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
