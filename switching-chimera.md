@@ -43,10 +43,10 @@ This clip shows the dynamics of a switching chimera state and its space-time plo
   <iframe class="resp-iframe" src="https://www.youtube.com/embed/PIVgurLIGN0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Talk 
+### Talk
 Here is me talking about switching chimeras at Dynamics Days Digital 2020.
 
-<div class="resp-container-narrow">
+<div class="resp-container">
   <iframe class="resp-iframe" src="https://www.youtube.com/embed/LkBtYX7OQEQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
