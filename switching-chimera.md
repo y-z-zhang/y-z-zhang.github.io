@@ -43,5 +43,12 @@ This clip shows the dynamics of a switching chimera state and its space-time plo
   <iframe class="resp-iframe" src="https://www.youtube.com/embed/PIVgurLIGN0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Talk 
+Here is me talking about switching chimeras at Dynamics Days Digital 2020.
+
+<div class="resp-container-narrow">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/LkBtYX7OQEQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### References
 * __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
