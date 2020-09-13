@@ -18,5 +18,12 @@ This movie starts with two systems of identical oscillators, denoted by +h and -
   <iframe class="resp-iframe" src="https://www.youtube.com/embed/XB_yALjpeMg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Talk
+Here is me talking about the identical synchronization of nonidentical oscillators at the Network Frontier Workshop 2017.
+
+<div class="resp-container">
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/gP275zzcpn4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ### References
 * __Y. Zhang__ and A. E. Motter, *Identical synchronization of nonidentical oscillators: when only birds of different feathers flock together*, [Nonlinearity 31 R1-R23 (2018)](https://doi.org/10.1088/1361-6544/aa8fe7)
