@@ -9,7 +9,8 @@ order: 1
 * **Y. Zhang**, V. Latora, and A. E. Motter, *Unified Treatment of Dynamical Processes on Generalized Networks: Higher-Order, Multilayer, and Temporal Interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
 * **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [arXiv:2003.05461](https://arxiv.org/abs/2003.05461), to appear in SIAM Review
 
-1. __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
+1. __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
+1. B. Li, __Y. Zhang__, X. Meng, and R. Zhou, *Zipper-like unfolding of dsDNA caused by graphene wrinkles*, [J. Phys. Chem. C 124 3332-3340 (2020)](https://dx.doi.org/10.1021/acs.jpcc.9b08778)
 1. J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: trading symmetry for stability*, [Phys. Rev. Lett. 122 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
 1. __Y. Zhang__ and A. E. Motter, *Identical synchronization of nonidentical oscillators: when only birds of different feathers flock together*, [Nonlinearity 31 R1-R23 (2018)](https://doi.org/10.1088/1361-6544/aa8fe7)
 1. __Y. Zhang__, T. Nishikawa and A. E. Motter, *Asymmetry-induced synchronization in oscillator networks*, [Phys. Rev. E 95 062215 (2017)](http://dx.doi.org/10.1103/PhysRevE.95.062215)
