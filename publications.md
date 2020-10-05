@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* **Y. Zhang**, V. Latora, and A. E. Motter, *Unified Treatment of Dynamical Processes on Generalized Networks: Higher-Order, Multilayer, and Temporal Interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
 * **Y. Zhang** and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [arXiv:2003.05461](https://arxiv.org/abs/2003.05461), to appear in SIAM Review
 
 1. __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
