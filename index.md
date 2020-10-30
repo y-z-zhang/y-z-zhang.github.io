@@ -7,7 +7,7 @@ image: null
 author: Yuanzhao Zhang
 ---
 
-I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org) working with [Steven Strogatz](http://www.stevenstrogatz.com) at Cornell. I got my Ph.D. in Physics from Northwestern, advised by [Adilson Motter](http://dyn.phys.northwestern.edu/). Before that, I was a research intern at IBM Research. You can reach me at <zhangyuanzhao45@gmail.com>.
+I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org) working with [Steven Strogatz](http://www.stevenstrogatz.com) at Cornell. I got my Ph.D. in Physics from Northwestern, advised by [Adilson Motter](http://dyn.phys.northwestern.edu/). Before that, I was a research intern at IBM Research. You can reach me at <yzhang@schmidtsciencefellows.org>.
 
 [//]: # (I will join Santa Fe Institute as an Omidyar Fellow in 2021.)
 
