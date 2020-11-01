@@ -8,20 +8,16 @@ show_tile: true
 order: 3
 ---
 
-### Abstract
-> We report on a new type of chimera state that attracts almost all initial conditions and exhibits power-law switching behavior in networks of coupled oscillators.
-> Such switching chimeras consist of two symmetric configurations, which we refer to as subchimeras, in which one cluster is synchronized and the other is incoherent.
-> Despite each subchimera being linearly stable, switching chimeras are extremely sensitive to noise: arbitrarily small noise triggers and sustains persistent switching between the two symmetric subchimeras.
-> The average switching frequency scales as a power law with the noise intensity, which is in contrast with the exponential scaling observed in typical stochastic transitions.
-> Rigorous numerical analysis reveals that the power-law switching behavior originates from intermingled basins of attraction associated with the two subchimeras, which in turn are induced by chaos and symmetry in the system.
-> The theoretical results are supported by experiments on coupled optoelectronic oscillators, which demonstrate the generality and robustness of switching chimeras.
+### Synopsis
+Chimera states are symmetry-broken states with coexistence of coherence and incoherence.
+##### Chimeras on a seesaw
+We recently discovered a class of new chimera states that is both robust and fragile to noise [[Phys. Rev. X 10, 011044 (2020)]](https://doi.org/10.1103/PhysRevX.10.011044). Such chimeras are robust to noise in the sense of attracting almost all initial conditions, and they are fragile to noise because arbitrarily small noise can qualitatively change the long-term dynamics (by inducing irregular switching between the coherent and incoherent clusters). I will highlight an unexpected power law that emerges from this noise-induced switching, which contrasts with the exponential scaling observed in typical stochastic transitions and points to a fundamentally new switching mechanism.
 
 <!--
 ### Gallery
 You can explore the details of the riddled basins of the switching chimera by zooming in on the interactive image below.
 You can also download a high-resolution file (7200x7200 resolution, around 12 MB) [here](/assets/images/basin1.png).
 This image is the winner of the [2018 Northwestern Science Images Contest](https://bit.ly/2EzP3BX).
-
 
 <div class="resp-container-square">
   <iframe class="resp-iframe" allowfullscreen="true" src="https://www.easyzoom.com/embed/ac392371a68347d1bf632935660f0216"></iframe>
