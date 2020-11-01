@@ -11,6 +11,7 @@ order: 6
 ### Synopsis
 Many biological and technological networks show intricate synchronization patterns, where several internally coherent but mutually independent clusters coexist.
 Which synchronization patterns we can ultimately observe are determined by their stabilities.
+
 __Analyzing cluster synchronization patterns: Is symmetry really your friend?__
 It is widely believed that utilizing symmetries in the network structure is crucial to the characterization of synchronization stabilities.
 However, symmetry-based methods are limited in the types of synchronization patterns they can treat directly and are computationally prohibitive.
@@ -18,7 +19,8 @@ The search for a fast and versatile method to analyze synchronization patterns h
 Interestingly, we recently found that when symmetry information is discarded, the problem becomes easier, not harder.
 By forgoing symmetry, we not only can treat all synchronization patterns in a unified fashion but also develop algorithms that are orders of magnitude faster than symmetry-based ones [[SIAM Rev. 62 817–836 (2020)]](https://doi.org/10.1137/19M127358X).
 Our symmetry-independent method is based on finding the finest simultaneous block diagonalization (SBD) of multiple matrices and can potentially be applied to other dynamical processes on networks.
-__Unifying the treatment of higher-order, multilayer, and temporal interactions__
+
+__Unifying the treatment of higher-order, multilayer, and temporal interactions.__
 Over the past two decades, networks have emerged as a versatile description of interconnected complex systems.
 However, it has also become increasingly clear that the original formulation of a static network representing a single type of pairwise interaction has its limitations.
 For this reason, the original formulation has been generalized in different directions, including hypergraphs that account for nonpairwise interactions, multilayer networks that accommodate mixed types of interactions, and temporal networks for interaction patterns that change over time.
