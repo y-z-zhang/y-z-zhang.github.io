@@ -1,26 +1,33 @@
 ---
 layout: post
 title: Finest simultaneous block diagonalization
-description: a fast, versatile, and symmetry-independent algorithm to characterize the stability of network synchronization patterns
+description: a unified framework to characterize the stability of synchronization patterns in both traditional and generalized networks
 image: assets/images/SBD.png
 nav-menu: false
 show_tile: true
 order: 6
 ---
 
-### Overview
-Many biological and technological networks show intricate synchronization patterns during normal operations, where several internally coherent but mutually independent clusters coexist. Which synchronization patterns we can ultimately observe are determined by their stabilities. Building on the mathematical theory of noncommutative algebra, we developed a fast, versatile, and symmetry-independent algorithm to analyze network synchronization patterns.
-
-### Abstract
-> The field of network synchronization has seen tremendous growth following the introduction of the master stability function (MSF) formalism, which enables the efficient stability analysis of synchronization in large oscillator networks.
-> However, to make further progress we must overcome the limitations of this celebrated formalism, which focuses on global synchronization and requires both the oscillators and their interactions to be identical, while many systems of interest are inherently heterogeneous and exhibit complex synchronization patterns.
-> Here, we establish a generalization of the MSF formalism that can characterize the stability of any cluster synchronization pattern, even when the oscillators and/or their interactions are nonidentical.
-> The new framework is based on finding the finest simultaneous block diagonalization of matrices and does not rely on information about network symmetry.
-> This leads to an algorithm that is error-tolerant and orders of magnitude faster than existing symmetry-based algorithms.
-> As an application, we rigorously characterize the stability of chimera states in networks with multiple types of interactions.
+### Synopsis
+Many biological and technological networks show intricate synchronization patterns, where several internally coherent but mutually independent clusters coexist.
+Which synchronization patterns we can ultimately observe are determined by their stabilities.
+#### Analyzing cluster synchronization patterns: Is symmetry really your friend?
+It is widely believed that utilizing symmetries in the network structure is crucial to characterize such stabilities.
+However, symmetry-based methods are limited in the types of synchronization patterns they can treat directly and are computationally prohibitive.
+The search for a fast and versatile method has remained elusive.
+We recently found that when symmetry information is discarded, the problem becomes easier, not harder.
+By forgoing symmetry, we not only can treat all synchronization patterns in a unified fashion but also develop algorithms that are orders of magnitude faster than symmetry-based ones [[SIAM Rev. 62 817–836 (2020)]](https://doi.org/10.1137/19M127358X).
+Our symmetry-independent method is based on finding the finest simultaneous block diagonalization (SBD) of multiple matrices.
+#### Unifying the treatment of higher-order, multilayer, and temporal interactions
+Over the past two decades, networks have emerged as a versatile description of interconnected complex systems.
+However, it has also become increasingly clear that the original formulation of a static network representing a single type of pairwise interaction has its limitations.
+For this reason, the original formulation has been generalized in different directions, including hypergraphs that account for nonpairwise interactions, multilayer networks that accommodate mixed types of interactions, and temporal networks for interaction patterns that change over time.
+Naturally, with the increased descriptive power comes an increased analytical complexity, especially for dynamical processes on these generalized networks.
+The same SBD framework can be extended to optimally reduce the analytical complexity in all three classes of generalized networks and can thus facilitate the discovery of novel emergent phenomena in complex systems with generalized interactions [[arXiv:2010.00613]](https://arxiv.org/abs/2010.00613).
 
 ### Code
-Our Matlab code to find the finest simultaneous block diagonalization of matrices can be found [here](https://github.com/y-z-zhang/net-sync-sym).
+Our code for finding the finest simultaneous block diagonalization of multiple matrices can be found [here](https://github.com/y-z-zhang/sbd) and [here](https://github.com/y-z-zhang/net-sync-sym).
 
 ### References
 * __Y. Zhang__ and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62 817–836 (2020)](https://doi.org/10.1137/19M127358X)
+* __Y. Zhang__, V. Latora, and A. E. Motter, *Unified treatment of dynamical processes on generalized networks: higher-order, multilayer, and temporal interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
