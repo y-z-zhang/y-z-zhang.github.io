@@ -9,9 +9,9 @@ order: 3
 ---
 
 ### Synopsis
-Chimera states are symmetry-broken states with coexistence of coherence and incoherence.
+Chimera states are symmetry-broken states with coexistence of coherence and incoherence. They represent symmetry breaking phenomena in networks and have been been observed in optoelectronic, electrochemical, and mechanical systems. There are even evidence pointing to chimera-like states in quantum systems and in the brain.
 ##### Chimeras on a seesaw
-We recently discovered a class of new chimera states that is both robust and fragile to noise [[Phys. Rev. X 10, 011044 (2020)]](https://doi.org/10.1103/PhysRevX.10.011044). Such chimeras are robust to noise in the sense of attracting almost all initial conditions, and they are fragile to noise because arbitrarily small noise can qualitatively change the long-term dynamics (by inducing irregular switching between the coherent and incoherent clusters). I will highlight an unexpected power law that emerges from this noise-induced switching, which contrasts with the exponential scaling observed in typical stochastic transitions and points to a fundamentally new switching mechanism.
+We recently discovered a class of new chimera states that is both robust and fragile to noise [[Phys. Rev. X 10, 011044 (2020)]](https://doi.org/10.1103/PhysRevX.10.011044). Such chimeras are robust to noise in the sense of attracting almost all initial conditions, and they are fragile to noise because arbitrarily small noise can qualitatively change the long-term dynamics (by inducing irregular switching between the coherent and incoherent clusters). We highlight an unexpected power law that emerges from this noise-induced switching, which contrasts with the exponential scaling observed in typical stochastic transitions and points to a fundamentally new switching mechanism.
 
 <!--
 ### Gallery
