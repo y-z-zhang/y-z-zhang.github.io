@@ -18,7 +18,7 @@ However, symmetry-based methods are limited in the types of synchronization patt
 The search for a fast and versatile method to analyze synchronization patterns has remained elusive.
 Interestingly, we recently found that when symmetry information is discarded, the problem becomes easier, not harder.
 By forgoing symmetry, we not only can treat all synchronization patterns in a unified fashion but also develop algorithms that are orders of magnitude faster than symmetry-based ones [[SIAM Rev. 62 817–836 (2020)]](https://doi.org/10.1137/19M127358X).
-Our symmetry-independent method is based on finding the finest simultaneous block diagonalization (SBD) of multiple matrices and can potentially be applied to other dynamical processes on networks.
+Our symmetry-independent method is based on finding the finest simultaneous block diagonalization (SBD) of noncommuting matrices in the variational equation and can potentially be applied to other problems where multiple matrices need to be simplified concurrently.
 
 __Unifying the treatment of higher-order, multilayer, and temporal interactions.__
 Over the past two decades, networks have emerged as a versatile description of interconnected complex systems.
