@@ -9,7 +9,7 @@ order: 5
 ---
 
 ### Overview
-Different synchronization patterns are critical to the function of numerous systems (e.g., information processing in the brain). In practice, it is often important to be able to control these dynamical patterns without modifying individual nodes. In this work, we proposed a new control strategy based on minimal perturbations of the network structure.
+Different synchronization patterns are critical to the function of many interconnected systems (e.g., information processing in the brain). In practice, it is often important to be able to control these dynamical patterns without altering the node dynamics or imposing external control signal. In this work, we propose a new control strategy called topological control, which introduces minimal perturbations on the network structure so that the desired synchronization pattern can spontaneously emerge.
 
 ### Abstract
 > Symmetries are ubiquitous in network systems and have profound impacts on the observable dynamics.
