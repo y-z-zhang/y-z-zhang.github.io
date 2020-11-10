@@ -9,7 +9,9 @@ order: 3
 ---
 
 ### Synopsis
-Chimera states are dynamical states with coexistence of coherence and incoherence. They represent symmetry breaking phenomena in networks and have been been observed in optoelectronic, electrochemical, and mechanical systems. There are even evidence pointing to chimera-like states in quantum systems and in the brain.
+Chimera states are dynamical states with coexistence of coherence and incoherence. They represent symmetry breaking phenomena in networks and have been observed in a wide range of systems with diverse local dynamics. A key question in the field is whether there exists a common mechanism that gives rise to chimeras in different systems and the stability of chimeras in small networks.
+
+[//]: # (Recent evidence also point to the importance of chimera-like dynamics for unihemispheric sleep and seizures in the brain.)
 
 __Chimeras on a seesaw.__
 We recently discovered a class of new chimera states that is both robust and fragile to noise [[Phys. Rev. X 10, 011044 (2020)]](https://doi.org/10.1103/PhysRevX.10.011044). Such chimeras are robust to noise in the sense of attracting almost all initial conditions, and they are fragile to noise because arbitrarily small noise can qualitatively change the long-term dynamics (by inducing irregular switching between the coherent and incoherent clusters). We highlight an unexpected power law that emerges from this noise-induced switching, which contrasts with the exponential scaling observed in typical stochastic transitions and points to a fundamentally new switching mechanism.
@@ -34,7 +36,7 @@ Intermingled basins of switching chimeras
 * [‘Beauty of Science’ Winner Captures Network Synchronization with Striking Image---Northwestern Research](https://www.research.northwestern.edu/beauty-science-winner-captures-network-synchronization-striking-image/)
 
 ### Animation
-This clip shows the dynamics of a switching chimera state and its space-time plot. The switching between the coherent and incoherent clusters can be triggered by arbitrarily small noise.
+This clip shows the dynamics of a switching chimera state as measured in our optoelectronic experiments.
 
 <div class="resp-container-narrow">
   <iframe class="resp-iframe" src="https://www.youtube.com/embed/PIVgurLIGN0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
