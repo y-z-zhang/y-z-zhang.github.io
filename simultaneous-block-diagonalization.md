@@ -9,14 +9,14 @@ order: 6
 ---
 
 ### Synopsis
-Many biological and technological networks show intricate synchronization patterns, where several internally coherent but mutually independent clusters coexist.
-Which synchronization patterns we can ultimately observe are determined by their stabilities.
+Many biological and technological networks show intricate synchronization patterns, where several internally coherent but mutually independent clusters coexist. Maintaining the desired dynamical patterns is critical to the function of those networked systems. For instance, long-range synchronization in the theta frequency band between the prefrontal cortex and the temporal cortex has been shown to improve working memory in older adults.
 
 __Analyzing cluster synchronization patterns: Is symmetry really your friend?__
+Which synchronization patterns we can ultimately observe are determined by their stabilities.
 It is widely believed that utilizing symmetries in the network structure is crucial to the characterization of synchronization stabilities.
 However, symmetry-based methods are limited in the types of synchronization patterns they can treat directly and are computationally prohibitive.
-The search for a fast and versatile method to analyze synchronization patterns has remained elusive.
-Interestingly, we recently found that when symmetry information is discarded, the problem becomes easier, not harder.
+So far, the search for a fast and versatile method to analyze synchronization patterns has remained elusive.
+Interestingly, we found that when symmetry information is discarded, the problem *becomes easier, not harder*.
 By forgoing symmetry, we not only can treat all synchronization patterns in a unified fashion but also develop algorithms that are orders of magnitude faster than symmetry-based ones [[SIAM Rev. 62 817–836 (2020)]](https://doi.org/10.1137/19M127358X).
 Our symmetry-independent method is based on finding the finest simultaneous block diagonalization (SBD) of noncommuting matrices in the variational equation and can potentially be applied to other problems where multiple matrices need to be simplified concurrently.
 
