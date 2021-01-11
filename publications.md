@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* **Y. Zhang** and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [arXiv:2101.02721](https://arxiv.org/abs/2101.02721)
 * **Y. Zhang**, V. Latora, and A. E. Motter, *Unified treatment of dynamical processes on generalized networks: higher-order, multilayer, and temporal interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
 
 1. __Y. Zhang__ and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62 817–836 (2020)](https://doi.org/10.1137/19M127358X)
