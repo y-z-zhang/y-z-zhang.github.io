@@ -1,7 +1,7 @@
 ---
 layout: post
-title: chimera states
-description: exploring dynamical patterns where coherence and incoherence coexist
+title: Chimera states
+description: exploring dynamical patterns in which coherence and incoherence coexist
 image: assets/images/basin2.png
 nav-menu: false
 show_tile: true
@@ -9,7 +9,7 @@ order: 3
 ---
 
 ### Synopsis
-In a sense, fully coherent or fully incoherent states in networks are a bit boring, since either everyone is doing the same thing or no one cares what everyone else is doing. This partially explains why chimera states have quickly become one of the favorite playgrounds of nonlinear dynamists, as they represent dynamical states with coexistence of coherence and incoherence. Since its initial discovery almost two decades ago, chimera states have been observed in a wide range of systems with diverse local dynamics. Some key questions of current interest in the field include whether there exists a common mechanism that gives rise to chimeras in different systems and the stability of chimeras in small networks.
+In a sense, fully coherent or fully incoherent states in networks are a bit "boring", since either everyone is doing the same thing or no one cares what everyone else is doing. This partially explains why chimera states have quickly become one of the favorite playgrounds of nonlinear dynamists, as they represent dynamics with the most "fun" where coherence and incoherence coexist. Since its initial discovery two decades ago, chimera states have been observed in a wide range of systems with diverse local dynamics. Some key questions of current interest in the field include whether there exists a common mechanism that gives rise to chimeras in different systems and the stability of chimeras in small networks.
 
 __Chimeras on a seesaw.__
 We recently discovered a class of new chimera states that is both robust and fragile to noise [[Phys. Rev. X 10, 011044 (2020)]](https://doi.org/10.1103/PhysRevX.10.011044). Such chimeras are robust to noise in the sense of attracting almost all initial conditions, and they are fragile to noise because arbitrarily small noise can qualitatively change the long-term dynamics (by inducing irregular switching between the coherent and incoherent clusters). We highlight an unexpected power law that emerges from this noise-induced switching, which contrasts with the exponential scaling observed in typical stochastic transitions and points to a fundamentally new switching mechanism.
