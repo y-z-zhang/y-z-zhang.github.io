@@ -51,3 +51,4 @@ Here is me talking about switching chimeras at Dynamics Days Digital 2020.
 
 ### References
 * __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
+* __Y. Zhang__ and A. E. Motter, *Mechanism for strong chimeras*, [Phys. Rev. Lett. 126 094101 (2021)](https://doi.org/10.1103/PhysRevLett.126.094101)
