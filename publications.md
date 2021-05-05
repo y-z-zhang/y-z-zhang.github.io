@@ -7,10 +7,11 @@ order: 1
 ---
 
 * **Y. Zhang** and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [arXiv:2101.02721](https://arxiv.org/abs/2101.02721)
-* **Y. Zhang**, V. Latora, and A. E. Motter, *Unified treatment of dynamical processes on generalized networks: higher-order, multilayer, and temporal interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
+* **Y. Zhang**, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
 
 1. Y. Sugitani\*, __Y. Zhang__\*, and A. E. Motter, *Synchronizing chaos with imperfections*, [Phys. Rev. Lett. 126 164101 (2021)](https://doi.org/10.1103/PhysRevLett.126.164101)
 1. __Y. Zhang__ and A. E. Motter, *Mechanism for strong chimeras*, [Phys. Rev. Lett. 126 094101 (2021)](https://doi.org/10.1103/PhysRevLett.126.094101)
+1. M. Feng, Y. Song, S. H. Chen, __Y. Zhang__, and R. Zhou, *Molecular mechanism of secreted amyloid-β precursor protein in binding and modulating GABABR1a*, [Chem. Sci. 12 6107-6116 (2021)](https://doi.org/10.1039/d0sc06946a)
 1. __Y. Zhang__ and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62 817–836 (2020)](https://doi.org/10.1137/19M127358X)
 1. __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
 1. B. Li, __Y. Zhang__, X. Meng, and R. Zhou, *Zipper-like unfolding of dsDNA caused by graphene wrinkles*, [J. Phys. Chem. C 124 3332-3340 (2020)](https://dx.doi.org/10.1021/acs.jpcc.9b08778)
