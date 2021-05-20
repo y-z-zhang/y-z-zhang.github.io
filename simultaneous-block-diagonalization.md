@@ -13,7 +13,7 @@ Many biological and technological networks show intricate synchronization patter
 
 __Analyzing cluster synchronization patterns: Is symmetry really your friend?__
 Which synchronization patterns we can ultimately observe are determined by their stabilities.
-It is widely believed that utilizing symmetries in the network structure is crucial to the characterization of a pattern’s stability
+It is widely believed that utilizing symmetries in the network structure is crucial to the characterization of a pattern’s stability.
 However, symmetry-based methods are limited in the types of synchronization patterns they can directly treat and can be computationally expensive.
 So far, the search for a fast and versatile method to analyze synchronization patterns has remained elusive.
 Interestingly, we found that when symmetry information is discarded, the problem *becomes easier, not harder*.
