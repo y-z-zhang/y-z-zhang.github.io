@@ -25,5 +25,5 @@ Below is a short animation demonstrating the key finding of our study. It shows 
 </div>
 
 ### References
-* __Y. Zhang__, J. L. Ocampo-Espindola, I. Z. Kiss, and A. E. Motter, *Random heterogeneity outperforms design in network synchronization*, [PNAS (2021)](https://doi.org/10.1073/pnas.2024299118)
+* __Y. Zhang__, J. L. Ocampo-Espindola, I. Z. Kiss, and A. E. Motter, *Random heterogeneity outperforms design in network synchronization*, [Proc. Natl. Acad. Sci. U.S.A. 118 e2024299118 (2021)](https://doi.org/10.1073/pnas.2024299118)
 * Y. Sugitani\*, __Y. Zhang__\*, and A. E. Motter, *Synchronizing chaos with imperfections*, [Phys. Rev. Lett. 126 164101 (2021)](https://doi.org/10.1103/PhysRevLett.126.164101)
