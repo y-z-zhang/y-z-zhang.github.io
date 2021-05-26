@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finest simultaneous block diagonalization
-description: a unified framework to characterize the stability of synchronization patterns in both traditional and generalized networks
+description: a unified framework to characterize the stability of synchronization patterns in both standard and generalized networks
 image: assets/images/SBD.png
 nav-menu: false
 show_tile: true
