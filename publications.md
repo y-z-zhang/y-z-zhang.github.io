@@ -6,9 +6,9 @@ show_tile: true
 order: 1
 ---
 
-* **Y. Zhang** and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [arXiv:2101.02721](https://arxiv.org/abs/2101.02721)
 * **Y. Zhang**, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
 
+1. __Y. Zhang__ and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [Nat. Commun. 12 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9)
 1. __Y. Zhang__, J. L. Ocampo-Espindola, I. Z. Kiss, and A. E. Motter, *Random heterogeneity outperforms design in network synchronization*, [Proc. Natl. Acad. Sci. U.S.A. 118 e2024299118 (2021)](https://doi.org/10.1073/pnas.2024299118)
 1. Y. Sugitani\*, __Y. Zhang__\*, and A. E. Motter, *Synchronizing chaos with imperfections*, [Phys. Rev. Lett. 126 164101 (2021)](https://doi.org/10.1103/PhysRevLett.126.164101)
 1. __Y. Zhang__ and A. E. Motter, *Mechanism for strong chimeras*, [Phys. Rev. Lett. 126 094101 (2021)](https://doi.org/10.1103/PhysRevLett.126.094101)
