@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* **Y. Zhang** and S. H. Strogatz, *Basins with tentacles*, [arXiv:2106.05709](https://arxiv.org/abs/2106.05709)
 * **Y. Zhang**, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
 
 1. __Y. Zhang__ and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [Nat. Commun. 12 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9)
