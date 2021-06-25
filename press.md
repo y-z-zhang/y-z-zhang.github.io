@@ -6,6 +6,7 @@ show_tile: false
 order: 3
 ---
 
+* [Getting in synch on a budget---SFI Research Brief](https://www.santafe.edu/news-center/news/research-brief-getting-synch-budget)
 * [Profile Featured on TGS Spotlight](https://www.tgs.northwestern.edu/about/our-people/spotlight/yuanzhao-zhang.html)
 * [Andrea d’Aquino and Yuanzhao Zhang named 2020 Schmidt Science Fellows---Northwestern Now](https://news.northwestern.edu/stories/2020/04/andrea-daquino-and-yuanzhao-zhang-named-2020-schmidt-science-fellows/)
 * [Eric and Wendy Schmidt Announce 2020 Schmidt Science Fellows---SSF](https://schmidtsciencefellows.org/news/2020-cohort/)
