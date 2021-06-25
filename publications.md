@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* F. M. Brady\*, **Y. Zhang**\*, and A. E. Motter, *Forget partitions: Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 * **Y. Zhang** and S. H. Strogatz, *Basins with tentacles*, [arXiv:2106.05709](https://arxiv.org/abs/2106.05709)
 * **Y. Zhang**, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [arXiv:2010.00613](https://arxiv.org/abs/2010.00613)
 
@@ -17,8 +18,8 @@ order: 1
 1. __Y. Zhang__ and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62 817–836 (2020)](https://doi.org/10.1137/19M127358X)
 1. __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
 1. B. Li, __Y. Zhang__, X. Meng, and R. Zhou, *Zipper-like unfolding of dsDNA caused by graphene wrinkles*, [J. Phys. Chem. C 124 3332-3340 (2020)](https://dx.doi.org/10.1021/acs.jpcc.9b08778)
-1. J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: trading symmetry for stability*, [Phys. Rev. Lett. 122 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
-1. __Y. Zhang__ and A. E. Motter, *Identical synchronization of nonidentical oscillators: when only birds of different feathers flock together*, [Nonlinearity 31 R1-R23 (2018)](https://doi.org/10.1088/1361-6544/aa8fe7)
+1. J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: Trading symmetry for stability*, [Phys. Rev. Lett. 122 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
+1. __Y. Zhang__ and A. E. Motter, *Identical synchronization of nonidentical oscillators: When only birds of different feathers flock together*, [Nonlinearity 31 R1-R23 (2018)](https://doi.org/10.1088/1361-6544/aa8fe7)
 1. __Y. Zhang__, T. Nishikawa and A. E. Motter, *Asymmetry-induced synchronization in oscillator networks*, [Phys. Rev. E 95 062215 (2017)](http://dx.doi.org/10.1103/PhysRevE.95.062215)
 1. G. Duan\*, __Y. Zhang__\*, B. Luan, J. K. Weber, R. W. Zhou, Z. Yang, L. Zhao, J. Xu, J. Luo and R. Zhou, *Graphene-induced pore formation on cell membranes*, [Sci. Rep. 7 42767 (2017)](http://dx.doi.org/10.1038/srep42767)
 1. __Y. Zhang__, J. K. Weber and R. Zhou, *Folding and stabilization of native-sequence-reversed proteins*, [Sci. Rep. 6 25138 (2016)](http://dx.doi.org/10.1038/srep25138)
