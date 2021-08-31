@@ -7,8 +7,6 @@ image: null
 author: Yuanzhao Zhang
 ---
 
-I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org) working with [Steven Strogatz](http://www.stevenstrogatz.com) at Cornell. I got my Ph.D. in Physics from Northwestern, advised by [Adilson Motter](http://dyn.phys.northwestern.edu/). Before that, I was a research intern at IBM Research. You can reach me at <yzhang@schmidtsciencefellows.org>.
-
-[//]: # (I will join Santa Fe Institute as an Omidyar Fellow in 2021.)
+I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org) working with [Steven Strogatz](http://www.stevenstrogatz.com) at the [Santa Fe Institute](https://www.santafe.edu). I got my Ph.D. in Physics from Northwestern, advised by [Adilson Motter](http://dyn.phys.northwestern.edu/). I also have fond memories working at Cornell and at IBM Research. You can reach me at <yzhang@schmidtsciencefellows.org>.
 
 My interest lies at the interface of networks and nonlinear dynamics. When microscopic entities interact, they can often coordinate with each other and achieve a macroscopic impact. Think of birds flocking together to confuse predators, cardiac pacemakers beating synchronously to create rhythmic impulses, and the decisions of millions of investors confluence to drive the financial market. My research aims to understand the underlying mechanisms behind these collective behaviors. From quantum networks to circadian clocks, we have much to learn when it comes to the relations between a network's structure, dynamics, and function. I draw techniques from dynamical systems, graph theory, and statistical mechanics to help uncover the simplicity hidden in complex systems. The resulting insights may help us harness the potential of our increasingly interconnected world.
