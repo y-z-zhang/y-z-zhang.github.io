@@ -21,7 +21,7 @@ Our new results show that, by allowing the connection patterns to change over ti
 Here is me presenting the work at the Systems Neuroscience and Complexity Seminar @ University of Sydney.
 
 <div class="resp-container">
-  <iframe class="resp-iframe" src="https://www.youtube.com/embed/LkBtYX7OQEQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="resp-iframe" src="https://www.youtube.com/embed/UKkiCTF03jA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Code
