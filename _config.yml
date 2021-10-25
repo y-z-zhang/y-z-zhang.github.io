@@ -17,7 +17,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 14
+tiles-count: 15
 
 # social settings
 500px_url:
