@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finest simultaneous block diagonalization
+title: Simultaneous block diagonalization
 description: a unified framework to characterize the stability of synchronization patterns in both standard and generalized networks
 image: assets/images/SBD.png
 nav-menu: false
@@ -33,3 +33,4 @@ Our code for finding a simultaneous block diagonalization of an arbitrary number
 ### References
 * __Y. Zhang__ and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62, 817–836 (2020)](https://doi.org/10.1137/19M127358X)
 * __Y. Zhang__, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [Commun. Phys. 4, 195 (2021)](https://doi.org/10.1038/s42005-021-00695-0)
+* F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Forget partitions: Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
