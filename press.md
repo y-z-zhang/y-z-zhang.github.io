@@ -6,6 +6,7 @@ show_tile: false
 order: 3
 ---
 
+* [New tool untangles complex dynamics on hypergraphs---SFI News](https://www.santafe.edu/news-center/news/new-tool-untangles-complex-dynamics-hypergraphs)
 * [AN21 Prize Spotlight---SIAM News](https://sinews.siam.org/Details-Page/an21-prize-spotlight#YZ)
 * [Schmidt Science Fellows Science Highlights---SSF](https://schmidtsciencefellows.org/news/science-highlights-from-the-community/)
 * [Getting in synch on a budget---SFI Research Brief](https://www.santafe.edu/news-center/news/research-brief-getting-synch-budget)

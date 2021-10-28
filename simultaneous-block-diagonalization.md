@@ -30,6 +30,9 @@ The same SBD framework can be extended to optimally reduce the analytical comple
 ### Code
 Our code for finding a simultaneous block diagonalization of an arbitrary number of matrices can be found [here](https://github.com/y-z-zhang/sbd) and [here](https://github.com/y-z-zhang/net-sync-sym).
 
+### Press
+* [New tool untangles complex dynamics on hypergraphs---SFI News](https://www.santafe.edu/news-center/news/new-tool-untangles-complex-dynamics-hypergraphs)
+
 ### References
 * __Y. Zhang__ and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62, 817–836 (2020)](https://doi.org/10.1137/19M127358X)
 * __Y. Zhang__, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [Commun. Phys. 4, 195 (2021)](https://doi.org/10.1038/s42005-021-00695-0)
