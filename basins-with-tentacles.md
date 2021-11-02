@@ -14,7 +14,7 @@ Basins of attraction are fundamental to the analysis of many physical systems su
 <!--
 ### Press
 * [Basins in high-dimensional systems are like octopuses---SFI News](https://www.research.northwestern.edu/beauty-science-winner-captures-network-synchronization-striking-image/)
+-->
 
 ### References
-* __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 094101 (2021)](https://doi.org/10.1103/PhysRevLett.126.094101)
--->
+* __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 194101 (2021)](https://doi.org/10.1103/PhysRevLett.127.194101)

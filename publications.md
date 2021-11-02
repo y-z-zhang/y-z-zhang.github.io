@@ -7,8 +7,8 @@ order: 1
 ---
 
 * F. M. Brady\*, **Y. Zhang**\*, and A. E. Motter, *Forget partitions: Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
-* **Y. Zhang** and S. H. Strogatz, *Basins with tentacles*, [arXiv:2106.05709](https://arxiv.org/abs/2106.05709)
 
+1. __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 194101 (2021)](https://doi.org/10.1103/PhysRevLett.127.194101)
 1. __Y. Zhang__, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [Commun. Phys. 4, 195 (2021)](https://doi.org/10.1038/s42005-021-00695-0)
 1. __Y. Zhang__ and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [Nat. Commun. 12, 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9)
 1. __Y. Zhang__, J. L. Ocampo-Espindola, I. Z. Kiss, and A. E. Motter, *Random heterogeneity outperforms design in network synchronization*, [Proc. Natl. Acad. Sci. U.S.A. 118, e2024299118 (2021)](https://doi.org/10.1073/pnas.2024299118)
