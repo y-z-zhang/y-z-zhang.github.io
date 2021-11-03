@@ -6,6 +6,7 @@ show_tile: false
 order: 3
 ---
 
+* [When is a basin of attraction like an octopus?---SFI News](https://www.santafe.edu/news-center/news/when-basin-attraction-octopus)
 * [I received the 2021 Complex Systems Society Emerging Researcher Award at the Conference on Complex Systems in Lyon---CSS](https://cssociety.org/news/112)
 * [New tool untangles complex dynamics on hypergraphs---SFI News](https://www.santafe.edu/news-center/news/new-tool-untangles-complex-dynamics-hypergraphs)
 * [I received the SIAM Student Paper Prize at the 2021 SIAM Annual Meeting---SIAM Prize Spotlight](https://sinews.siam.org/Details-Page/an21-prize-spotlight#YZ)
