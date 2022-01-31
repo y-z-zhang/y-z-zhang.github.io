@@ -11,7 +11,7 @@ I am a [Schmidt Science Fellow](https://schmidtsciencefellows.org) at the [Santa
 
 My interest lies at the interface of networks and nonlinear dynamics. When microscopic entities interact, they can often coordinate with each other and achieve a macroscopic impact. Think of electrons dancing together to create superconductivity, cardiac pacemakers beating synchronously to generate rhythmic impulses, and birds flocking together to confuse predators. What gives rise to the emergence of collective dynamics in these coupled many-body systems, especially when the interactions are non-local, irregular, and multifaceted? I draw techniques from dynamical systems, graph theory, and statistical mechanics to help answer this question.
 
-Some topics I worked on recently include the effect of disorder in networked dynamical systems, stability analysis and topological control of synchronization patterns, coexistence of coherence and incoherence in systems with symmetries, synchronization on higher-order networks, and basins of attraction in high-dimensional disordered systems.
+Some topics I worked on recently include the effect of disorder on network dynamics, stability analysis and topological control of synchronization patterns, coexistence of coherence and incoherence in systems with symmetries, synchronization on higher-order networks, and basins of attraction in high-dimensional systems.
 
 <!-- the simplicity hidden in these complex systems -->
 
