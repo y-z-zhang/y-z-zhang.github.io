@@ -3,7 +3,8 @@ title: Yuanzhao Zhang
 subtitle: Network Dynamics & Complex Systems
 email: yzhang@schmidtsciencefellows.org
 description: Research Homepage of Yuanzhao Zhang
-bio: Postdoctoral Fellow, Santa Fe Institute <br /> <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Yuanzhao_Zhang">Research Gate</a> | <a href="https://orcid.org/0000-0002-2056-7755">ORCID</a>
+bio: Postdoctoral Fellow, Santa Fe Institute
+#| <br /> <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Yuanzhao_Zhang">Research Gate</a> | <a href="https://orcid.org/0000-0002-2056-7755">ORCID</a>
 #| <a href="assets/cv.pdf">Curriculum Vitae</a>
 #baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://y-zhang.com" #"https://y-z-zhang.github.io" # the base hostname & protocol for your site
