@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* **Y. Zhang**\*, M. Lucas\*, and F. Battiston, *Do higher-order interactions promote synchronization?*, [arXiv:2203.03060](https://arxiv.org/abs/2203.03060)
 * F. M. Brady\*, **Y. Zhang**\*, and A. E. Motter, *Forget partitions: Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
 1. __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 194101 (2021)](https://doi.org/10.1103/PhysRevLett.127.194101)
