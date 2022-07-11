@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basins with tentacles
-description: exploring basin structures in high-dimensional dynamical systems
+description: exploring basin structures in high-dimensional systems
 image: assets/images/basins_with_tentacles.png
 nav-menu: false
 show_tile: true
