@@ -1,6 +1,6 @@
 # site settings
 title: Yuanzhao Zhang
-subtitle: Network Dynamics & Complex Systems
+subtitle: Nonlinear Dynamics & Complex Systems
 email: yzhang@schmidtsciencefellows.org
 description: Research Homepage of Yuanzhao Zhang
 bio: Postdoctoral Fellow, Santa Fe Institute
@@ -18,7 +18,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 16
+tiles-count: 10
 
 # social settings
 500px_url:
