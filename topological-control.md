@@ -5,7 +5,7 @@ description: manipulating synchronization patterns through minimal topological p
 image: assets/images/topo.png
 nav-menu: false
 show_tile: true
-order: 5
+order: 25
 ---
 
 ### Overview

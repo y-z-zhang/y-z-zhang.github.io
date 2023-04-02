@@ -5,7 +5,7 @@ description: a general mathematical framework to study the identical synchroniza
 image: assets/images/cover4.png
 nav-menu: false
 show_tile: true
-order: 10
+order: 30
 ---
 
 ### Abstract

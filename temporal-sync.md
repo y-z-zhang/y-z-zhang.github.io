@@ -5,7 +5,7 @@ description: designing temporal networks that synchronize under resource constra
 image: assets/images/temporal_sync.png
 nav-menu: false
 show_tile: true
-order: 8
+order: 28
 ---
 
 ### Synopsis
