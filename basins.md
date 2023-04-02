@@ -2,7 +2,7 @@
 layout: post
 title: Basins of Attraction
 description: exploring basin structure in high-dimensional systems
-image: assets/images/basin2.png
+image: assets/images/basin1.png
 nav-menu: false
 show_tile: true
 order: 5
