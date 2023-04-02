@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Network dynamics
-description: exploring dynamical patterns in which coherence and incoherence coexist
-image: assets/images/basin2.png
+title: Network Dynamics
+description: characterizing collective dynamics in coupled systems
+image: assets/images/multilayer_full.png
 nav-menu: false
 show_tile: true
 order: 3
@@ -17,7 +17,7 @@ Despite the common belief that individual differences are detrimental to uniform
 * __Y. Zhang__, T. Nishikawa and A. E. Motter, *Asymmetry-induced synchronization in oscillator networks*, [Phys. Rev. E 95 062215 (2017)](http://dx.doi.org/10.1103/PhysRevE.95.062215)
 
 ### Cluster synchronization
-Complex networks often support complex synchronization patterns. Understanding such patterns will enable us to manipulate the behavior of numerous biological, social, and technological systems. I work on general theories and efficient algorithms to identify, characterize, and control synchronization patterns in both traditional and generalized networks.
+Complex networks often support complex synchronization patterns. Understanding such patterns will enable us to manipulate the behavior of numerous biological, social, and technological systems. I work on general theories and efficient algorithms to identify, characterize, and control synchronization patterns in both standard and generalized networks.
 
 * __Y. Zhang__, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [Commun. Phys. 4, 195 (2021)](https://doi.org/10.1038/s42005-021-00695-0)
 * __Y. Zhang__ and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62, 817–836 (2020)](https://doi.org/10.1137/19M127358X)
@@ -30,4 +30,7 @@ One particularly interesting type of synchronization patterns is chimera states,
 * __Y. Zhang__ and A. E. Motter, *Mechanism for strong chimeras*, [Phys. Rev. Lett. 126, 094101 (2021)](https://doi.org/10.1103/PhysRevLett.126.094101)
 * __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
 
+### Applications
+Many real-world systems can be modelled as coupled oscillators. I work with domain experts to advance our understanding of systems such as circadian clocks and pancreatic islets.
 
+* Y. Huang, **Y. Zhang**, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in aging*, [arXiv:2212.13579](https://doi.org/10.48550/arXiv.2212.13579)
