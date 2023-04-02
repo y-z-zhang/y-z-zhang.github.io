@@ -5,7 +5,7 @@ description: data-driven modeling of dynamical systems
 image: assets/images/RC.png
 nav-menu: false
 show_tile: true
-order: 4
+order: 6
 ---
 
 ### Reservior computing

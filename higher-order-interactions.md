@@ -5,7 +5,7 @@ description: collective dynamics beyond standard networks
 image: assets/images/HOI2.png
 nav-menu: false
 show_tile: true
-order: 6
+order: 4
 ---
 
 ### Higher-order interactions
