@@ -5,7 +5,7 @@ description: exploring dynamical patterns in which coherence and incoherence coe
 image: assets/images/basin2.png
 nav-menu: false
 show_tile: true
-order: 3
+order: 23
 ---
 
 ### Synopsis
