@@ -6,7 +6,7 @@ show_tile: true
 order: 1
 ---
 
-* Y. Huang, **Y. Zhang**, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in agingg*, [arXiv:22212.13579](https://doi.org/10.48550/arXiv.2212.13579)
+* Y. Huang, **Y. Zhang**, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in agingg*, [arXiv:2212.13579](https://doi.org/10.48550/arXiv.2212.13579)
 * **Y. Zhang** and S. P. Cornelius, *A catch-22 of reservoir computing*, [arXiv:2210.10211](https://doi.org/10.48550/arXiv.2210.10211)
 * F. M. Brady\*, **Y. Zhang**\*, and A. E. Motter, *Forget partitions: Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
