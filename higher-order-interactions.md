@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Higher-Order Interactions
-description: exploring basin structure in high-dimensional systems
-image: assets/images/basin2.png
+description: collective dynamics beyond standard networks
+image: assets/images/HOI.png
 nav-menu: false
 show_tile: true
 order: 6
@@ -15,6 +15,6 @@ Do higher-order interactions promote synchronization? Which higher-order represe
 * __Y. Zhang__, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [Commun. Phys. 4, 195 (2021)](https://doi.org/10.1038/s42005-021-00695-0)
 
 ### Temporal networks
-Can temporal networks 
+Do temporal networks have a fundamental advantage over static networks? Can time-varying connections be used as a control mechanism?
 
 * __Y. Zhang__ and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [Nat. Commun. 12, 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9)
