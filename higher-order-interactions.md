@@ -8,7 +8,7 @@ show_tile: true
 order: 4
 ---
 
-### Higher-order interactions
+### Hypergraphs and simplicial complexes
 Do higher-order interactions promote synchronization? Which higher-order representation should we choose when modeling systems with nonpairwise interactions? 
 
 * __Y. Zhang__\*, M. Lucas\*, and F. Battiston, *Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes*, [Nat. Commun. 14, 1605 (2023)](https://doi.org/10.1038/s41467-023-37190-9)
