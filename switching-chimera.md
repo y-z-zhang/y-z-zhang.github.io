@@ -4,7 +4,7 @@ title: Chimera states
 description: exploring dynamical patterns in which coherence and incoherence coexist
 image: assets/images/basin2.png
 nav-menu: false
-show_tile: true
+show_tile: false
 order: 23
 ---
 

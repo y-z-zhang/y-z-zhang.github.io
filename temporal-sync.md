@@ -4,7 +4,7 @@ title: Temporal sync
 description: designing temporal networks that synchronize under resource constraints
 image: assets/images/temporal_sync.png
 nav-menu: false
-show_tile: true
+show_tile: false
 order: 28
 ---
 

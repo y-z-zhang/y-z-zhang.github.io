@@ -4,7 +4,7 @@ title: Topological control
 description: manipulating synchronization patterns through minimal topological perturbations
 image: assets/images/topo.png
 nav-menu: false
-show_tile: true
+show_tile: false
 order: 25
 ---
 

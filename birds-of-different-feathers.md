@@ -4,7 +4,7 @@ title: When only birds of different feathers flock together
 description: a general mathematical framework to study the identical synchronization of nonidentical oscillators
 image: assets/images/cover4.png
 nav-menu: false
-show_tile: true
+show_tile: false
 order: 30
 ---
 

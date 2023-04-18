@@ -4,7 +4,7 @@ title: Simultaneous block diagonalization
 description: a unified framework to characterize the stability of synchronization patterns in both standard and generalized networks
 image: assets/images/sbd2.png
 nav-menu: false
-show_tile: true
+show_tile: false
 order: 26
 ---
 
