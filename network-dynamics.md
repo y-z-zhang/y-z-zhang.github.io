@@ -33,4 +33,4 @@ One particularly interesting type of synchronization patterns is chimera states,
 ### Applications
 Many real-world systems can be modelled as coupled oscillators. I work with domain experts to advance our understanding of systems such as circadian clocks and pancreatic islets.
 
-* Y. Huang, **Y. Zhang**, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in aging*, [arXiv:2212.13579](https://doi.org/10.48550/arXiv.2212.13579)
+* Y. Huang, __Y. Zhang__, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in aging*, [Chaos 33, 093104 (2023)](https://doi.org/10.1063/5.0157524)

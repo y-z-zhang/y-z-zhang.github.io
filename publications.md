@@ -9,7 +9,7 @@ order: 1
 * **Y. Zhang** and S. P. Cornelius, *A catch-22 of reservoir computing*, [arXiv:2210.10211](https://doi.org/10.48550/arXiv.2210.10211)
 * F. M. Brady\*, **Y. Zhang**\*, and A. E. Motter, *Forget partitions: Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
-1. Y. Huang, **Y. Zhang**, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in aging*, [Chaos 33, 093104 (2023)](https://doi.org/10.1063/5.0157524)
+1. Y. Huang, __Y. Zhang__, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in aging*, [Chaos 33, 093104 (2023)](https://doi.org/10.1063/5.0157524)
 1. __Y. Zhang__\*, M. Lucas\*, and F. Battiston, *Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes*, [Nat. Commun. 14, 1605 (2023)](https://doi.org/10.1038/s41467-023-37190-9)
 1. Z. Chen,  T. Anglea, __Y. Zhang__ and Y. Wang, *Optimal synchronization in pulse-coupled oscillator networks using reinforcement learning*, [PNAS Nexus 2, pgad102 (2023)](https://doi.org/10.1093/pnasnexus/pgad102)
 1. __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 194101 (2021)](https://doi.org/10.1103/PhysRevLett.127.194101)
