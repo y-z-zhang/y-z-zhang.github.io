@@ -2,7 +2,7 @@
 layout: post
 title: Machine Learning
 description: data-driven modeling of dynamical systems
-image: assets/images/RC2.png
+image: assets/images/basins_with_tentacles.png
 nav-menu: false
 show_tile: true
 order: 6
