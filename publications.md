@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publications
+image: assets/images/cover3.pdf
 nav-menu: true
 show_tile: true
 order: 1
