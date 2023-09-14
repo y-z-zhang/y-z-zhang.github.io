@@ -1,7 +1,7 @@
 ---
 layout: post
 title: News & Press
-nav-menu: true
+nav-menu: false
 show_tile: false
 order: 3
 ---
