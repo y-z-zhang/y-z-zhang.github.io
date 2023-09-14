@@ -2,7 +2,7 @@
 layout: post
 title: Network Dynamics
 description: characterizing collective dynamics in coupled systems
-image: assets/images/cover3.pdf
+image: assets/images/cover3.png
 nav-menu: false
 show_tile: true
 order: 3
