@@ -2,7 +2,7 @@
 layout: post
 title: Higher-Order Interactions
 description: collective dynamics beyond standard networks
-image: assets/images/HOI2.png
+image: assets/images/HOI3.png
 nav-menu: false
 show_tile: true
 order: 4
