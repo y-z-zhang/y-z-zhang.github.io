@@ -3,7 +3,7 @@ layout: post
 title: News & Press
 nav-menu: false
 show_tile: false
-order: 3
+order: 38
 ---
 
 * We (w/ Mattia Serra and James Briggs) received a Catalyst Grant from Schmidt Futures for using dynamical systems and network science tools to study cell reprogramming---[SSF Annoucement](https://schmidtsciencefellows.org/news/catalyst-grant-awardees/)
