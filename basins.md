@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basins of Attraction
-description: exploring basin structure in high-dimensional systems
+description: fractals and tentacles
 image: assets/images/basin3.png
 nav-menu: false
 show_tile: true
