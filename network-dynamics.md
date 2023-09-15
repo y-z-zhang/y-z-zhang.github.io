@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Network Dynamics
-description: characterizing collective dynamics in coupled systems
+description: synchronization, chimeras, and more
 image: assets/images/cover3.png
 nav-menu: false
 show_tile: true
