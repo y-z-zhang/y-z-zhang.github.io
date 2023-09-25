@@ -8,15 +8,6 @@ show_tile: false
 order: 23
 ---
 
-### Synopsis
-In a sense, fully coherent or fully incoherent states in networks are a bit "boring", since either everyone is doing the same thing or no one cares about what everyone else is doing. This partially explains why chimera states have quickly become one of the favorite playgrounds for nonlinear dynamists, as they represent the coexistence of coherence and incoherence and is where the most "fun" can be found. Since its initial discovery two decades ago, chimera states have been observed in a wide range of systems with diverse local dynamics. Some key questions of current interest in the field include whether there exists a common mechanism that gives rise to chimeras in different systems and the stability of chimeras in small networks.
-
-__Chimeras on a seesaw.__
-We recently discovered a class of new chimera states that is both robust and fragile to noise [[Phys. Rev. X 10 011044 (2020)]](https://doi.org/10.1103/PhysRevX.10.011044). Such chimeras are robust to noise in the sense of attracting almost all initial conditions, and they are fragile to noise because arbitrarily small noise can qualitatively change the long-term dynamics (by inducing irregular switching between the coherent and incoherent clusters). We highlight an unexpected power law that emerges from this noise-induced switching, which contrasts with the exponential scaling observed in typical stochastic transitions and points to a fundamentally new switching mechanism.
-
-__What gives rise to chimeras?__
-One central quest in understanding chimeras is the identification of system-independent mechanisms that can provide broad insights into the origin of such states. We recently showed that coherence in one part of a network is often sustained by incoherence in other parts, which points to a common origin of exotic synchronization patterns such as chimera states [[Phys. Rev. Lett. 126 094101 (2021)]](https://doi.org/10.1103/PhysRevLett.126.094101). This mechanism, which we term *incoherence-stabilized coherence*, can be interpreted as a deterministic analog of noise-induced synchronization and thus reveals a previously unnoticed connection between two disparate areas of active research. Our results have potential implications for epileptic seizures that arise from the excessive synchronization of large neuronal populations. For example, incoherence-stabilized coherence might provide insights into the counter-intuitive observation that seizures are often preceded by desynchronization and that high levels of synchrony can facilitate seizure termination.
-
 <!--
 ### Gallery
 You can explore the details of the riddled basins of the switching chimera by zooming in on the interactive image below.
@@ -33,6 +24,16 @@ Intermingled basins of switching chimeras
 
 {% include image-gallery.html folder="assets/images/basins/" %}
 
+### Synopsis
+In a sense, fully coherent or fully incoherent states in networks are a bit "boring", since either everyone is doing the same thing or no one cares about what everyone else is doing. This partially explains why chimera states have quickly become one of the favorite playgrounds for nonlinear dynamists, as they represent the coexistence of coherence and incoherence and is where the most "fun" can be found. Since its initial discovery two decades ago, chimera states have been observed in a wide range of systems with diverse local dynamics. Some key questions of current interest in the field include whether there exists a common mechanism that gives rise to chimeras in different systems and the stability of chimeras in small networks.
+
+__Chimeras on a seesaw.__
+We recently discovered a class of new chimera states that is both robust and fragile to noise [[Phys. Rev. X 10 011044 (2020)]](https://doi.org/10.1103/PhysRevX.10.011044). Such chimeras are robust to noise in the sense of attracting almost all initial conditions, and they are fragile to noise because arbitrarily small noise can qualitatively change the long-term dynamics (by inducing irregular switching between the coherent and incoherent clusters). We highlight an unexpected power law that emerges from this noise-induced switching, which contrasts with the exponential scaling observed in typical stochastic transitions and points to a fundamentally new switching mechanism.
+
+__What gives rise to chimeras?__
+One central quest in understanding chimeras is the identification of system-independent mechanisms that can provide broad insights into the origin of such states. We recently showed that coherence in one part of a network is often sustained by incoherence in other parts, which points to a common origin of exotic synchronization patterns such as chimera states [[Phys. Rev. Lett. 126 094101 (2021)]](https://doi.org/10.1103/PhysRevLett.126.094101). This mechanism, which we term *incoherence-stabilized coherence*, can be interpreted as a deterministic analog of noise-induced synchronization and thus reveals a previously unnoticed connection between two disparate areas of active research. Our results have potential implications for epileptic seizures that arise from the excessive synchronization of large neuronal populations. For example, incoherence-stabilized coherence might provide insights into the counter-intuitive observation that seizures are often preceded by desynchronization and that high levels of synchrony can facilitate seizure termination.
+
+<!--
 ### Press
 * [‘Beauty of Science’ Winner Captures Network Synchronization with Striking Image---Northwestern Research](https://www.research.northwestern.edu/beauty-science-winner-captures-network-synchronization-striking-image/)
 
@@ -53,3 +54,4 @@ Here is me talking about switching chimeras at Dynamics Days Digital 2020.
 ### References
 * __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
 * __Y. Zhang__ and A. E. Motter, *Mechanism for strong chimeras*, [Phys. Rev. Lett. 126, 094101 (2021)](https://doi.org/10.1103/PhysRevLett.126.094101)
+-->
