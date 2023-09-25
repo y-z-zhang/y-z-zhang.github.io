@@ -11,7 +11,7 @@ order: 6
 ### Reservior computing
 Reservoir Computing (RC) is a simple and efficient model-free framework for forecasting the behavior of nonlinear dynamical systems from data. I am interested in understanding the success as well as identifying limitations of RC.
 
-* **Y. Zhang** and S. P. Cornelius, *A catch-22 of reservoir computing*, [arXiv:2210.10211](https://doi.org/10.48550/arXiv.2210.10211)
+* **Y. Zhang** and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
 
 ### Reinforcement learning
 Can we use reinforcement learning (RL) to improve synchronization? Would the solutions found by RL be interpretable?
