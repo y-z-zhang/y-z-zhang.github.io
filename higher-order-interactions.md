@@ -10,7 +10,6 @@ order: 4
 
 ### Hypergraphs and simplicial complexes
 Do higher-order interactions promote synchronization? Should we use hypergraphs or simplicial complexes when modeling systems with higher-order interactions?
-
 * __Y. Zhang__\*, M. Lucas\*, and F. Battiston, *Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes*, [Nat. Commun. 14, 1605 (2023)](https://doi.org/10.1038/s41467-023-37190-9)
 
 How to do stability analysis of cluster synchronization on hypergraphs?
