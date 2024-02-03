@@ -8,6 +8,11 @@ show_tile: true
 order: 6
 ---
 
+### SINDy
+Can we adapt sparse regression techniques to infer the underlying hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
+
+* R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
+
 ### Reservior computing
 Reservoir Computing (RC) is a simple and efficient model-free framework for forecasting the behavior of nonlinear dynamical systems from data. I am interested in understanding the success as well as identifying limitations of RC.
 
