@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
 * **Y. Zhang**, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [arXiv:2309.16581](https://arxiv.org/abs/2309.16581)
 * F. M. Brady\*, **Y. Zhang**\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
