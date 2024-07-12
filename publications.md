@@ -6,9 +6,10 @@ show_tile: true
 order: 1
 ---
 
-* R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
-* **Y. Zhang**, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [arXiv:2309.16581](https://arxiv.org/abs/2309.16581)
-* F. M. Brady\*, **Y. Zhang**\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
+* __Y. Zhang__ and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
+* R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
+* __Y. Zhang__, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [arXiv:2309.16581](https://arxiv.org/abs/2309.16581)
+* F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
 1. __Y. Zhang__ and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
 1. Y. Huang, __Y. Zhang__, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in aging*, [Chaos 33, 093104 (2023)](https://doi.org/10.1063/5.0157524)

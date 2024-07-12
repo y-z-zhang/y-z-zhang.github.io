@@ -8,7 +8,7 @@ show_tile: true
 order: 6
 ---
 
-### SINDy
+### Hypergraph inference
 Can we adapt sparse regression techniques to infer the underlying hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
 
 * R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
@@ -17,6 +17,7 @@ Can we adapt sparse regression techniques to infer the underlying hypergraphs fr
 Reservoir Computing (RC) is a simple and efficient model-free framework for forecasting the behavior of nonlinear dynamical systems from data. I am interested in understanding the success as well as identifying limitations of RC.
 
 * **Y. Zhang** and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
+* __Y. Zhang__ and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
 
 ### Reinforcement learning
 Can we use reinforcement learning (RL) to improve synchronization? Would the solutions found by RL be interpretable?
