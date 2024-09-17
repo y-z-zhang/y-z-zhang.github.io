@@ -7,7 +7,7 @@ order: 1
 ---
 
 * __Y. Zhang__ and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
-* R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
+* R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
 * F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
 1. __Y. Zhang__, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [Sci. Adv. 10, ado8049 (2024)](https://doi.org/10.1126/sciadv.ado8049)
@@ -35,4 +35,4 @@ order: 1
 1. __Y. Zhang__\*, C. A. Jimenez-Cruz\*, J. Wang, Z. Yang, B. Zhou and R. Zhou, *Bio-mimicking of proline-rich motif applied to carbon nanotube reveals unexpected subtleties underlying nanoparticle functionalization*, [Sci. Rep. 4, 7229 (2014)](http://dx.doi.org/10.1038/srep07229)
 1. Y. Tu, H. Lu, __Y. Zhang__, T. Huynh and R. Zhou, *Capability of charge signal conversion and transmission by water chains confined inside Y-shaped carbon nanotubes*, [J. Chem. Phys. 138, 015104 (2013)](http://dx.doi.org/10.1063/1.4773221)
 
-\* equal contributions
+\* equal contributions   &dagger; corresponding author
