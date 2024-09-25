@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* __Y. Zhang__ and W. Gilpin, *Zero-shot forecasting of chaotic systems*, [arXiv:2409.15771](https://arxiv.org/abs/2409.15771)
 * __Y. Zhang__ and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
 * R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
 * F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)

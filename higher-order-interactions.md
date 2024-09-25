@@ -19,7 +19,7 @@ Can we infer the underlying hypergraphs from time-series data in a model-free fa
 * R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
 
 Can higher-order interactions affect linear stability and basin stability differently?
-* __Y. Zhang__, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [arXiv:2309.16581](https://arxiv.org/abs/2309.16581)
+* __Y. Zhang__, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [Sci. Adv. 10, ado8049 (2024)](https://doi.org/10.1126/sciadv.ado8049)
 
 ### Temporal networks
 Do temporal networks have a fundamental advantage over static networks? Can time-varying connections be used as a control mechanism?
