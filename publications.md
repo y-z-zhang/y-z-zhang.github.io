@@ -7,7 +7,7 @@ order: 1
 ---
 
 * Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
-* __Y. Zhang__ and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
+* __Y. Zhang__, E. R. Santos, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
 * F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
 1. R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [Nat. Commun. (in press)](https://arxiv.org/abs/2402.00078)

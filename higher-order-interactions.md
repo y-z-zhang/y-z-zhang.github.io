@@ -17,7 +17,7 @@ Can higher-order interactions affect linear stability and basin stability differ
 
 ### Hypergraphs from dynamics
 Can we infer causal hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
-* R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
+* R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [Nat. Commun. (in press)](https://arxiv.org/abs/2402.00078)
 
 ### Generalized networks
 How to do stability analysis of cluster synchronization states on hypergraphs and temporal networks?

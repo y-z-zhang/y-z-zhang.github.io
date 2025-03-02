@@ -8,18 +8,22 @@ show_tile: true
 order: 6
 ---
 
-### Out-of-distribution generalization
-Can foundation models forecast a chaotic system without being trained on the same system?
-* __Y. Zhang__ and W. Gilpin, *Zero-shot forecasting of chaotic systems*, [arXiv:2409.15771](https://arxiv.org/abs/2409.15771)
+### Time-series foundation models
+Can pre-trained transformers forecast a chaotic system without being trained on the same system?
+* __Y. Zhang__ and W. Gilpin, *Zero-shot forecasting of chaotic systems*, [ICLR 2025](https://openreview.net/pdf?id=TqYjhJrp9m)
 
 ### Reservior computing
 Reservoir Computing (RC) is a simple and efficient model-free framework for forecasting the behavior of nonlinear dynamical systems from data. I am interested in understanding the success as well as identifying limitations of RC.
 * **Y. Zhang** and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
-* __Y. Zhang__ and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
+* __Y. Zhang__, E. R. Santos, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
 
 ### Causal inference
 Can we infer causal hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
-* R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [arXiv:2402.00078](https://arxiv.org/abs/2402.00078)
+* R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [Nat. Commun. (in press)](https://arxiv.org/abs/2402.00078)
+
+### Dynamic modes decomposition
+Can DMD automatically identify glassy dynamics (e.g., algebraic relaxation) from high-dimensional data?
+* Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
 
 ### Reinforcement learning
 Can we use reinforcement learning (RL) to improve synchronization? Would the solutions found by RL be interpretable?
