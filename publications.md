@@ -37,4 +37,4 @@ order: 1
 1. __Y. Zhang__\*, C. A. Jimenez-Cruz\*, J. Wang, Z. Yang, B. Zhou and R. Zhou, *Bio-mimicking of proline-rich motif applied to carbon nanotube reveals unexpected subtleties underlying nanoparticle functionalization*, [Sci. Rep. 4, 7229 (2014)](http://dx.doi.org/10.1038/srep07229)
 1. Y. Tu, H. Lu, __Y. Zhang__, T. Huynh and R. Zhou, *Capability of charge signal conversion and transmission by water chains confined inside Y-shaped carbon nanotubes*, [J. Chem. Phys. 138, 015104 (2013)](http://dx.doi.org/10.1063/1.4773221)
 
-\* equal contributions   &dagger; corresponding author
+\* equal contributions,   &dagger; corresponding author
