@@ -19,7 +19,7 @@ Reservoir Computing (RC) is a simple and efficient model-free framework for fore
 
 ### Causal inference
 Can we infer causal hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
-* R. Delabays, G. De Pasquale, F. Dörfler, and **Y. Zhang**, *Hypergraph reconstruction from dynamics*, [Nat. Commun. (in press)](https://arxiv.org/abs/2402.00078)
+* R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)
 
 ### Dynamic modes decomposition
 Can DMD automatically identify glassy dynamics (e.g., algebraic relaxation) from high-dimensional data?
