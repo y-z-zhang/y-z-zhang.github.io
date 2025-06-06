@@ -6,6 +6,8 @@ show_tile: true
 order: 1
 ---
 
+* D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [arXiv:2506.05292](https://arxiv.org/abs/2506.05292)
+* P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__&dagger;, *The size of the sync basin resolved*, [arXiv:2506.034199](https://arxiv.org/abs/2506.03419)
 * __Y. Zhang__ and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [arXiv:2505.11349](https://arxiv.org/abs/2505.11349)
 * Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
 * __Y. Zhang__, E. R. Santos, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)

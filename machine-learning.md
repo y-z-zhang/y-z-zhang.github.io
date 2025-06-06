@@ -13,10 +13,15 @@ Can pre-trained transformers forecast a chaotic system without being trained on 
 * __Y. Zhang__ and W. Gilpin, *Zero-shot forecasting of chaotic systems*, [ICLR 2025](https://openreview.net/pdf?id=TqYjhJrp9m)
 * __Y. Zhang__ and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [arXiv:2505.11349](https://arxiv.org/abs/2505.11349)
 
+### Out-of-domain generalization
+Can neural networks extrapolate without structural priors?
+* D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [arXiv:2506.05292](https://arxiv.org/abs/2506.05292)
+
 ### Reservior computing
 Reservoir Computing (RC) is a simple and efficient model-free framework for forecasting the behavior of nonlinear dynamical systems from data. I am interested in understanding the success as well as identifying limitations of RC.
 * **Y. Zhang** and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
 * __Y. Zhang__, E. R. Santos, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [arXiv:2407.08641](https://arxiv.org/abs/2407.08641)
+* D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [arXiv:2506.05292](https://arxiv.org/abs/2506.05292)
 
 ### Causal inference
 Can we infer causal hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
