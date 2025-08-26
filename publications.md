@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* B. H. Schlomann, W. S. DeWitt, __Y. Zhang__, and K. Shah, *Ignition criteria for trigger waves in cell signaling*, [arXiv:2508.16810](https://arxiv.org/abs/2508.16810)
 * D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [arXiv:2506.05292](https://arxiv.org/abs/2506.05292)
 * P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__&dagger;, *The size of the sync basin resolved*, [arXiv:2506.034199](https://arxiv.org/abs/2506.03419)
 * __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [arXiv:2505.11349](https://arxiv.org/abs/2505.11349)
