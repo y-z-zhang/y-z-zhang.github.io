@@ -9,6 +9,7 @@ order: 1
 * F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__, *Collective dynamics on higher-order networks*, [arXiv:2510.05253](https://arxiv.org/abs/2510.05253)
 * __Y. Zhang__&dagger; and S. P. Cornelius, *Tempological Control of Network Dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
 * P. S. Skardal, F. Battiston, M. Lucas, M. S. Mizuhara, G. Petri, and __Y. Zhang__, *Mixed higher-order coupling stabilizes new states*, [arXiv:2510.09387](https://arxiv.org/abs/2510.09387)
+* X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [arXiv:2510.13025](https://arxiv.org/abs/2510.13025)
 * B. H. Schlomann, W. S. DeWitt, __Y. Zhang__, and K. Shah, *Ignition criteria for trigger waves in cell signaling*, [arXiv:2508.16810](https://arxiv.org/abs/2508.16810)
 * D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [arXiv:2506.05292](https://arxiv.org/abs/2506.05292)
 * P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__&dagger;, *The size of the sync basin resolved*, [arXiv:2506.034199](https://arxiv.org/abs/2506.03419)
