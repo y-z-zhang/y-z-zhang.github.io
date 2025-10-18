@@ -27,9 +27,12 @@ Reservoir Computing (RC) is a simple and efficient model-free framework for fore
 Can we infer causal hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
 * R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)
 
-### Dynamic modes decomposition
+### Koopman learning
 Can DMD automatically identify glassy dynamics (e.g., algebraic relaxation) from high-dimensional data?
 * Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
+
+Can information theory help us find a good representation to learn Koopman operators?
+* X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [arXiv:2510.13025](https://arxiv.org/abs/2510.13025)
 
 ### Reinforcement learning
 Can we use reinforcement learning (RL) to improve synchronization? Would the solutions found by RL be interpretable?
