@@ -20,12 +20,12 @@ Can neural networks extrapolate without structural priors?
 ### Reservior computing
 Reservoir Computing (RC) is a simple and efficient model-free framework for forecasting the behavior of nonlinear dynamical systems from data. I am interested in understanding the success as well as identifying limitations of RC.
 * **Y. Zhang** and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
-* __Y. Zhang__&dagger;, E. R. Santos, H. Zhang, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [Chaos 35, 073102 (2025)](https://doi.org/10.1063/5.0262977)
+* __Y. Zhang__, E. R. Santos, H. Zhang, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [Chaos 35, 073102 (2025)](https://doi.org/10.1063/5.0262977)
 * D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [Chaos 35, 103146 (2025)](https://doi.org/10.1063/5.0283421)
 
 ### Causal inference
 Can we infer causal hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
-* R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)
+* R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)
 
 ### Koopman learning
 Can DMD automatically identify glassy dynamics (e.g., algebraic relaxation) from high-dimensional data?

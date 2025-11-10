@@ -21,7 +21,7 @@ Can higher-order interactions affect linear stability and basin stability differ
 
 ### Hypergraphs from dynamics
 Can we infer causal hypergraphs from time-series data in a model-free fashion? How important are higher-order interactions in the brain?
-* R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)
+* R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)
 
 ### Temporal networks
 How to do stability analysis of cluster synchronization states on generalized networks?
@@ -29,4 +29,4 @@ How to do stability analysis of cluster synchronization states on generalized ne
 
 Do temporal networks have a fundamental advantage over static networks? Can time-varying connections be used as a control mechanism?
 * __Y. Zhang__ and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [Nat. Commun. 12, 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9)
-* __Y. Zhang__&dagger; and S. P. Cornelius, *Tempological Control of Network Dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
+* __Y. Zhang__ and S. P. Cornelius, *Tempological Control of Network Dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
