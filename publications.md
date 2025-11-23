@@ -6,6 +6,7 @@ show_tile: true
 order: 1
 ---
 
+* R. Delabays, __Y. Zhang__, F. Dörfler, and G. De Pasquale, *Data-driven Control of Hypergraphs: Leveraging THIS to Damp Noise in Diffusive Hypergraphs*, [arXiv:2511.08647](https://arxiv.org/abs/2511.08647)
 * F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__, *Collective dynamics on higher-order networks*, [arXiv:2510.05253](https://arxiv.org/abs/2510.05253)
 * __Y. Zhang__&dagger; and S. P. Cornelius, *Tempological Control of Network Dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
 * P. S. Skardal, F. Battiston, M. Lucas, M. S. Mizuhara, G. Petri, and __Y. Zhang__, *Mixed higher-order coupling stabilizes new states*, [arXiv:2510.09387](https://arxiv.org/abs/2510.09387)
