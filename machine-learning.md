@@ -2,7 +2,7 @@
 layout: post
 title: Scientific Machine Learning
 description: Physics-uninformed extrapolation in AI for Science
-image: assets/images/attractors.png
+image: assets/images/michelle.png
 nav-menu: false
 show_tile: true
 order: 6
