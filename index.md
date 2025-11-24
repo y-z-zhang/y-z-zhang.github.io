@@ -11,7 +11,7 @@ author: Yuanzhao Zhang
   style="
     display: flex; 
     align-items: top; 
-    gap: 20px; 
+    gap: 100px; 
     flex-wrap: wrap;
   "
 >
@@ -32,7 +32,7 @@ author: Yuanzhao Zhang
     style="
       flex: 1;
       min-width: 260px;              /* prevents awkward squeezing */
-      max-width: 700px;
+      max-width: 1000px;
     "
   >
     <p>
