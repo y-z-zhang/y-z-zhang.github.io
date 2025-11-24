@@ -2,7 +2,7 @@
 layout: post
 title: Higher-Order Interactions
 description: collective dynamics on hypergraphs and simplicial complexes
-image: assets/images/HOI3.png
+image: assets/images/inference.png
 nav-menu: false
 show_tile: true
 order: 4
