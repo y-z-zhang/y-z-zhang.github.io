@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scientific Machine Learning
-description: Physics-uninformed extrapolation in SciML
+description: Physics-uninformed extrapolation in AI for Science
 image: assets/images/attractors.png
 nav-menu: false
 show_tile: true
