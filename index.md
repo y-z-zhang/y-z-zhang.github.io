@@ -10,14 +10,14 @@ author: Yuanzhao Zhang
 <div 
   style="
     display: flex; 
-    align-items: center; 
+    align-items: top; 
     gap: 20px; 
     flex-wrap: wrap;
   "
 >
 
   <img 
-    src="assets/images/Yuanzhao_Zhang.png"
+    src="assets/images/me.jpeg"
     alt="Yuanzhao Zhang"
     style="
       width: 450px; 
