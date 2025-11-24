@@ -36,7 +36,7 @@ author: Yuanzhao Zhang
     "
   >
     <p>
-      I am an Omidyar Fellow at the Santa Fe Institute. Before that, I was a Schmidt Science Fellow at Cornell working with 
+      I am an Omidyar Fellow at the Santa Fe Institute interested in complex systems, nonlinear dynamics, and scientific machine learning. Before that, I was a Schmidt Science Fellow at Cornell working with 
       <a href="http://www.stevenstrogatz.com" target="_blank" rel="noopener">Steven Strogatz</a>.
       I received my Ph.D. in Physics from Northwestern, advised by 
       <a href="http://dyn.phys.northwestern.edu/" target="_blank" rel="noopener">Adilson Motter</a>.
