@@ -79,7 +79,7 @@ author: Yuanzhao Zhang
         How do basins of attraction look in such high-dimensional nonlinear systems? 
         Insights from these questions can inform everything from designing neural networks that 
         navigate complex loss surfaces more effectively to developing strategies 
-        to restore disrupted circadian rhythms after long-haul flights.
+        that quickly restore disrupted circadian rhythms after long-haul flights.
       </li>
     </ol>
 
