@@ -49,9 +49,9 @@ author: Yuanzhao Zhang
     </p>
 
     <p>
-      Broadly, I am interested in systems that exhibit rich emergent behaviors, but at
+      Broadly, I am interested in systems that exhibit rich emergent behaviors that at
       the same time can be understood (either analytically or heuristically) when viewed
-      from the right perspective. Half jokingly, I like to say that I am into the
+      from the right angle. Half jokingly, I like to say that I am into the
       simplest complex systems and not-too-nonlinear dynamics. Here are some of the questions
       currently keeping me awake at night:
     </p>
@@ -72,7 +72,7 @@ author: Yuanzhao Zhang
         <strong>How do collective dynamics emerge from decentralized interactions?</strong>
         From fireflies spontaneously synchronizing their flahes to neurons generating avalanches
         of firing activities, nature is full of examples of order emerging without central control. 
-        What mechanisms allow such global behaviors to arise from local interactions?
+        What mechanisms allow such global coordination to arise from local interactions?
         I study these systems by representing them as networks or hypergraphs of nonlinear nodes 
         and analyzing them through the lenses of dynamical systems and network theory. 
         How does network structure shape macroscopic behavior? 
