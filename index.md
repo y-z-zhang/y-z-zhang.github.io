@@ -34,7 +34,7 @@ author: Yuanzhao Zhang
       flex: 1;
       min-width: 260px;
       max-width: 1000px;
-      font-size: 1.4rem;
+      font-size: 1.1rem;
     "
   >
     <p>
