@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AI for Science
-description: Physics-uninformed extrapolation in Scientific Machine Learning
+title: Physics-uninformed machine learning
+description: Out-of-distribution generalization in machine learning without physics
 image: assets/images/Michelle.jpeg
 nav-menu: false
 show_tile: true
