@@ -49,9 +49,8 @@ author: Yuanzhao Zhang
     </p>
 
     <p>
-      Broadly, I am interested in systems that exhibit rich emergent behaviors that at
-      the same time can be understood (either analytically or heuristically) when viewed
-      from the right angle. Half jokingly, I like to say that I am into the
+      Broadly, I am interested in systems that exhibit rich emergent behaviors while remain amenable 
+      to theoretical analysis. Half jokingly, I like to say that I am into the
       simplest complex systems and not-too-nonlinear dynamics. Here are some of the questions
       currently keeping me awake at night:
     </p>
