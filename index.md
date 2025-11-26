@@ -10,7 +10,7 @@ author: Yuanzhao Zhang
 <div 
   style="
     display: flex; 
-    align-items: top; 
+    align-items: flex-start; 
     gap: 100px; 
     flex-wrap: wrap;
   "
