@@ -68,7 +68,7 @@ author: Yuanzhao Zhang
       </li>
 
       <li>
-        <strong>How do collective dynamics emerge from decentralized interactions?</strong>
+        <strong>How do global order emerge from local interactions?</strong>
         From fireflies spontaneously synchronizing their flahes to neurons generating avalanches
         of firing activities, nature is full of examples of order emerging without central control. 
         What mechanisms allow such global coordination to arise from local interactions?
