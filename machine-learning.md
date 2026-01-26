@@ -11,7 +11,7 @@ order: 6
 ### Time-series foundation models
 Can pre-trained transformers forecast a chaotic system without being trained on the same system?
 * __Y. Zhang__ and W. Gilpin, *Zero-shot forecasting of chaotic systems*, [ICLR 2025](https://openreview.net/pdf?id=TqYjhJrp9m)
-* __Y. Zhang__ and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [arXiv:2505.11349](https://arxiv.org/abs/2505.11349)
+* __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [ICLR 2026](https://openreview.net/forum?id=EUAXc9Hlvm)
 
 ### Out-of-domain generalization
 Can neural networks extrapolate without structural priors?
@@ -32,7 +32,7 @@ Can DMD automatically identify glassy dynamics (e.g., algebraic relaxation) from
 * Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
 
 Can information theory help us find a good representation to learn Koopman operators?
-* X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [arXiv:2510.13025](https://arxiv.org/abs/2510.13025)
+* X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [ICLR 2026](https://openreview.net/forum?id=Szh0ELyQxL)
 
 ### Reinforcement learning
 Can we use reinforcement learning (RL) to improve synchronization? Would the solutions found by RL be interpretable?
