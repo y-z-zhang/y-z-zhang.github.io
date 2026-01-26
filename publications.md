@@ -7,15 +7,15 @@ order: 1
 ---
 
 * R. Delabays, __Y. Zhang__, F. Dörfler, and G. De Pasquale, *Data-driven Control of Hypergraphs: Leveraging THIS to Damp Noise in Diffusive Hypergraphs*, [arXiv:2511.08647](https://arxiv.org/abs/2511.08647)
-* F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__, *Collective dynamics on higher-order networks*, [arXiv:2510.05253](https://arxiv.org/abs/2510.05253)
 * __Y. Zhang__&dagger; and S. P. Cornelius, *Tempological Control of Network Dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
 * P. S. Skardal, F. Battiston, M. Lucas, M. S. Mizuhara, G. Petri, and __Y. Zhang__, *Mixed higher-order coupling stabilizes new states*, [arXiv:2510.09387](https://arxiv.org/abs/2510.09387)
-* X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [arXiv:2510.13025](https://arxiv.org/abs/2510.13025)
 * B. H. Schlomann, W. S. DeWitt, __Y. Zhang__, and K. Shah, *Ignition criteria for trigger waves in cell signaling*, [arXiv:2508.16810](https://arxiv.org/abs/2508.16810)
-* __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [arXiv:2505.11349](https://arxiv.org/abs/2505.11349)
 * Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
 * F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
+1. * F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. (in press)](https://arxiv.org/abs/2510.05253)
+1. __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [ICLR 2026](https://arxiv.org/abs/2505.11349)
+1. X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [ICLR 2026](https://arxiv.org/abs/2510.13025)
 1. D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [Chaos 35, 103146 (2025)](https://doi.org/10.1063/5.0283421)
 1. P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__&dagger;, *The size of the sync basin resolved*, [Phys. Rev. E 112, L052201 (2025)](https://doi.org/10.1103/pb4f-kqzq)
 1. __Y. Zhang__&dagger;, E. R. Santos, H. Zhang, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [Chaos 35, 073102 (2025)](https://doi.org/10.1063/5.0262977)
