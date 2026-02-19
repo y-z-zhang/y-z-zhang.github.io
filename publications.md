@@ -13,7 +13,7 @@ order: 1
 * Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
 * F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
-1. F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__&dagger;, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. (in press)](https://arxiv.org/abs/2510.05253)
+1. F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__&dagger;, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. (2026)](https://doi.org/10.1038/s42254-025-00916-3)
 1. __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [ICLR 2026](https://openreview.net/forum?id=EUAXc9Hlvm)
 1. X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [ICLR 2026](https://openreview.net/forum?id=Szh0ELyQxL)
 1. D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [Chaos 35, 103146 (2025)](https://doi.org/10.1063/5.0283421)
