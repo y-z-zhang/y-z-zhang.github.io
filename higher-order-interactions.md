@@ -9,7 +9,7 @@ order: 4
 ---
 
 ### Overview
-* F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__&dagger;, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. (in press)](https://arxiv.org/abs/2510.05253)
+* F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__&dagger;, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. 8, 146–159 (2026)](https://doi.org/10.1038/s42254-025-00916-3)
 
 ### Dynamics on hypergraphs
 Do higher-order interactions promote synchronization? Should we use hypergraphs or simplicial complexes when modeling systems with higher-order interactions?
