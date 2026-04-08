@@ -6,13 +6,14 @@ show_tile: true
 order: 1
 ---
 
+* H. Hartle, P. L. Krapivsky, S. Redner, and __Y. Zhang__, *Anomalous scaling in redirection networks*, [arXiv:2604.01540](https://arxiv.org/abs/2604.01540)
 * R. Delabays, __Y. Zhang__, F. Dörfler, and G. De Pasquale, *Data-driven Control of Hypergraphs: Leveraging THIS to Damp Noise in Diffusive Hypergraphs*, [arXiv:2511.08647](https://arxiv.org/abs/2511.08647)
-* __Y. Zhang__&dagger; and S. P. Cornelius, *Tempological Control of Network Dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
+* __Y. Zhang__, K. M. Rock, and S. P. Cornelius, *Tempological Control of Network Dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
 * P. S. Skardal, F. Battiston, M. Lucas, M. S. Mizuhara, G. Petri, and __Y. Zhang__, *Mixed higher-order coupling stabilizes new states*, [arXiv:2510.09387](https://arxiv.org/abs/2510.09387)
-* B. H. Schlomann, W. S. DeWitt, __Y. Zhang__, and K. Shah, *Ignition criteria for trigger waves in cell signaling*, [arXiv:2508.16810](https://arxiv.org/abs/2508.16810)
-* Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
+* Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz, and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
 * F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
+1. B. H. Schlomann, W. S. DeWitt, __Y. Zhang__, and K. Shah, *Ignition criteria for trigger waves in cell signaling*, [PRX Life 4, 023003 (2026)](https://link.aps.org/doi/10.1103/z7hq-1gxg)
 1. F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__&dagger;, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. 8, 146–159 (2026)](https://doi.org/10.1038/s42254-025-00916-3)
 1. __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [ICLR 2026](https://openreview.net/forum?id=EUAXc9Hlvm)
 1. X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [ICLR 2026](https://openreview.net/forum?id=Szh0ELyQxL)

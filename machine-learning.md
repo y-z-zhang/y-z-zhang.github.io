@@ -11,7 +11,7 @@ order: 6
 ### Time-series foundation models
 Can pre-trained transformers forecast a chaotic system without being trained on the same system?
 * __Y. Zhang__ and W. Gilpin, *Zero-shot forecasting of chaotic systems*, [ICLR 2025](https://openreview.net/pdf?id=TqYjhJrp9m)
-* __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [ICLR 2026](https://openreview.net/forum?id=EUAXc9Hlvm)
+* __Y. Zhang__ and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [ICLR 2026](https://openreview.net/forum?id=EUAXc9Hlvm)
 
 ### Out-of-domain generalization
 Can neural networks extrapolate without structural priors?
