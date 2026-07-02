@@ -6,6 +6,8 @@ show_tile: false
 order: 38
 ---
 
+* I joined the Department of Physics and Astronomy at the [University of Rochester](https://www.rochester.edu) as a Simons Empire Assistant Professor, supported by a Simons Empire Faculty Fellowship
+* Our review on collective dynamics on higher-order networks appeared in [Nature Reviews Physics](https://doi.org/10.1038/s42254-025-00916-3)
 * We (w/ Mattia Serra and James Briggs) received a Catalyst Grant from Schmidt Futures for using dynamical systems and network science tools to study cell reprogramming---[SSF Annoucement](https://schmidtsciencefellows.org/news/catalyst-grant-awardees/)
 * I received the 2021 APS Dissertation Award in Statistical and Nonlinear Physics---[APS GSNP](https://www.aps.org/programs/honors/prizes/gsnpthesis.cfm)
 * When is a basin of attraction like an octopus?---[SFI News](https://www.santafe.edu/news-center/news/when-basin-attraction-octopus) and [Cornell Chronicle](https://news.cornell.edu/stories/2021/11/when-basin-attraction-octopus)

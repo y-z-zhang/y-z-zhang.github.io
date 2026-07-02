@@ -38,8 +38,10 @@ author: Yuanzhao Zhang
     "
   >
     <p>
-      I am an Omidyar Fellow at the Santa Fe Institute, working at the interface between
-      complex networks, nonlinear dynamics, and machine learning. Before that, I was a
+      I am a Simons Empire Assistant Professor in the Department of Physics and Astronomy at the
+      <a href="https://www.rochester.edu" target="_blank" rel="noopener">University of Rochester</a>,
+      working at the interface between complex networks, nonlinear dynamics, and machine learning.
+      Before joining Rochester, I was an Omidyar Fellow at the Santa Fe Institute and a
       Schmidt Science Fellow at Cornell working with 
       <a href="http://www.stevenstrogatz.com" target="_blank" rel="noopener">Steven Strogatz</a>.
       I received my Ph.D. in Physics from Northwestern, advised by 
@@ -48,8 +50,16 @@ author: Yuanzhao Zhang
       <a href="mailto:yzhang@santafe.edu">yzhang@santafe.edu</a>.
     </p>
 
+    <p style="font-size: 0.95rem;">
+      <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> &nbsp;·&nbsp;
+      <a href="https://orcid.org/0000-0002-2056-7755" target="_blank" rel="noopener">ORCID</a> &nbsp;·&nbsp;
+      <a href="assets/cv.pdf" target="_blank" rel="noopener">CV</a> &nbsp;·&nbsp;
+      <a href="https://github.com/y-z-zhang" target="_blank" rel="noopener">GitHub</a> &nbsp;·&nbsp;
+      <a href="https://twitter.com/YuanzhaoZhang" target="_blank" rel="noopener">X</a>
+    </p>
+
     <p>
-      Broadly, I am interested in systems that exhibit rich emergent behaviors while remain amenable 
+      Broadly, I am interested in systems that exhibit rich emergent behaviors while remaining amenable 
       to theoretical analysis. Half jokingly, I like to say that I am into the
       simplest complex systems and not-too-nonlinear dynamics. Here are some of the questions
       currently keeping me awake at night:
@@ -68,8 +78,8 @@ author: Yuanzhao Zhang
       </li>
 
       <li>
-        <strong>How do global order emerge from local interactions?</strong>
-        From fireflies spontaneously synchronizing their flahes to neurons generating avalanches
+        <strong>How does global order emerge from local interactions?</strong>
+        From fireflies spontaneously synchronizing their flashes to neurons generating avalanches
         of firing activities, nature is full of examples of order emerging without central control. 
         What mechanisms allow such global coordination to arise from local interactions?
         I study these systems by representing them as networks or hypergraphs of nonlinear nodes 

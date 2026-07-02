@@ -17,7 +17,7 @@ Can pre-trained transformers forecast a chaotic system without being trained on 
 Can neural networks extrapolate without structural priors?
 * D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [Chaos 35, 103146 (2025)](https://doi.org/10.1063/5.0283421)
 
-### Reservior computing
+### Reservoir computing
 Reservoir Computing (RC) is a simple and efficient model-free framework for forecasting the behavior of nonlinear dynamical systems from data. I am interested in understanding the success as well as identifying limitations of RC.
 * **Y. Zhang** and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
 * __Y. Zhang__, E. R. Santos, H. Zhang, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [Chaos 35, 073102 (2025)](https://doi.org/10.1063/5.0262977)
