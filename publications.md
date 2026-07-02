@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Publications
-description: selected papers, from chimera states to foundation models
+description: selected papers
 nav-menu: true
 show_tile: true
 order: 1
