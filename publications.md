@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Publications
+description: selected papers, from chimera states to foundation models
 image: assets/images/attractors.jpg
 nav-menu: true
 show_tile: true

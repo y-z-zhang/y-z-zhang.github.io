@@ -11,7 +11,7 @@ author: Yuanzhao Zhang
   style="
     display: flex; 
     align-items: flex-start; 
-    gap: 100px; 
+    gap: 40px 100px; 
     flex-wrap: wrap;
   "
 >
@@ -41,7 +41,7 @@ author: Yuanzhao Zhang
       I am a Simons Empire Assistant Professor in the Department of Physics and Astronomy at the
       <a href="https://www.rochester.edu" target="_blank" rel="noopener">University of Rochester</a>,
       where I lead the <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AID Lab</a>
-      (AI &amp; Dynamics Group), working at the interface between complex networks, nonlinear
+      (AI &amp; Dynamics Group), working at the interface of complex networks, nonlinear
       dynamics, and machine learning.
       Before joining Rochester, I was an Omidyar Fellow at the Santa Fe Institute and a
       Schmidt Science Fellow at Cornell working with 
@@ -83,7 +83,7 @@ author: Yuanzhao Zhang
       <li>
         <strong>How does global order emerge from local interactions?</strong>
         From fireflies spontaneously synchronizing their flashes to neurons generating avalanches
-        of firing activities, nature is full of examples of order emerging without central control. 
+        of firing activity, nature is full of examples of order emerging without central control. 
         What mechanisms allow such global coordination to arise from local interactions?
         I study these systems by representing them as networks or hypergraphs of nonlinear nodes 
         and analyzing them through the lenses of dynamical systems and network theory. 

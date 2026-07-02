@@ -2,10 +2,10 @@
 layout: post
 title: Network Dynamics
 description: synchronization, chimeras, and more
-image: assets/images/cover3.jpg
+image: assets/images/cluster.jpg
 nav-menu: false
 show_tile: true
-order: 3
+order: 4
 ---
 
 ### Order out of disorder
@@ -25,13 +25,13 @@ Complex networks often support complex synchronization patterns. Understanding s
 * F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Forget partitions: Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
 ### Chimera states
-One particularly interesting type of synchronization patterns is chimera states, where a network of identically coupled identical oscillators spontaneously splits into coherent and incoherent clusters. It represents symmetry breaking phenomena in networks. I contribute to the understanding of chimera states by characterizing new chimeras and proposing general mechanisms giving rise to such states.
+A particularly interesting type of synchronization pattern is the chimera state, in which a network of identically coupled identical oscillators spontaneously splits into coherent and incoherent clusters — a striking symmetry-breaking phenomenon. I contribute to the understanding of chimera states by characterizing new chimeras and proposing general mechanisms that give rise to such states.
 
 * __Y. Zhang__ and A. E. Motter, *Mechanism for strong chimeras*, [Phys. Rev. Lett. 126, 094101 (2021)](https://doi.org/10.1103/PhysRevLett.126.094101)
 * __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
 
 ### Applications
-Many real-world systems can be modelled as coupled oscillators. I work with domain experts to advance our understanding of systems such as circadian clocks and pancreatic islets.
+Many real-world systems can be modeled as coupled oscillators. I work with domain experts to advance our understanding of systems such as circadian clocks and pancreatic islets.
 
 * Y. Huang, __Y. Zhang__, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in aging*, [Chaos 33, 093104 (2023)](https://doi.org/10.1063/5.0157524)
 * R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)

@@ -5,7 +5,7 @@ description: collective dynamics on hypergraphs and simplicial complexes
 image: assets/images/HOI3.jpeg
 nav-menu: false
 show_tile: true
-order: 4
+order: 3
 ---
 
 ### Overview
@@ -29,4 +29,4 @@ How to do stability analysis of cluster synchronization states on generalized ne
 
 Do temporal networks have a fundamental advantage over static networks? Can time-varying connections be used as a control mechanism?
 * __Y. Zhang__ and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [Nat. Commun. 12, 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9)
-* __Y. Zhang__ and S. P. Cornelius, *Tempological Control of Network Dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
+* __Y. Zhang__ and S. P. Cornelius, *Tempological control of network dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
