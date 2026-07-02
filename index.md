@@ -19,6 +19,9 @@ author: Yuanzhao Zhang
   <img 
     src="assets/images/me.jpeg"
     alt="Yuanzhao Zhang"
+    width="1350"
+    height="2147"
+    fetchpriority="high"
     style="
       width: 450px; 
       max-width: min(80vw, 450px);
