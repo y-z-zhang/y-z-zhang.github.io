@@ -40,7 +40,9 @@ author: Yuanzhao Zhang
     <p>
       I am a Simons Empire Assistant Professor in the Department of Physics and Astronomy at the
       <a href="https://www.rochester.edu" target="_blank" rel="noopener">University of Rochester</a>,
-      working at the interface between complex networks, nonlinear dynamics, and machine learning.
+      where I lead the <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AID Lab</a>
+      (AI &amp; Dynamics Group), working at the interface between complex networks, nonlinear
+      dynamics, and machine learning.
       Before joining Rochester, I was an Omidyar Fellow at the Santa Fe Institute and a
       Schmidt Science Fellow at Cornell working with 
       <a href="http://www.stevenstrogatz.com" target="_blank" rel="noopener">Steven Strogatz</a>.
@@ -92,6 +94,12 @@ author: Yuanzhao Zhang
         that quickly restore disrupted circadian rhythms after long-haul flights.
       </li>
     </ol>
+
+    <p>
+      If these questions keep you up at night too, my group is recruiting PhD students,
+      postdocs, and undergraduate researchers—see
+      <a href="https://lab.y-zhang.com/join.html" target="_blank" rel="noopener">how to join the AID Lab</a>.
+    </p>
 
   </div>
 
