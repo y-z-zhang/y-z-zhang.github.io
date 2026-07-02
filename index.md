@@ -45,9 +45,9 @@ author: Yuanzhao Zhang
       dynamics, and machine learning.
       Before joining Rochester, I was an Omidyar Fellow at the Santa Fe Institute and a
       Schmidt Science Fellow at Cornell working with 
-      <a href="http://www.stevenstrogatz.com" target="_blank" rel="noopener">Steven Strogatz</a>.
+      <a href="https://www.stevenstrogatz.com" target="_blank" rel="noopener">Steven Strogatz</a>.
       I received my Ph.D. in Physics from Northwestern, advised by 
-      <a href="http://dyn.phys.northwestern.edu/" target="_blank" rel="noopener">Adilson Motter</a>.
+      <a href="https://dyn.phys.northwestern.edu/" target="_blank" rel="noopener">Adilson Motter</a>.
       You can reach me at 
       <a href="mailto:yzhang@santafe.edu">yzhang@santafe.edu</a>.
     </p>
