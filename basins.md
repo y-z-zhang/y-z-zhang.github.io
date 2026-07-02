@@ -2,7 +2,7 @@
 layout: post
 title: Basins of Attraction
 description: fractals and tentacles
-image: assets/images/basin3.jpg
+image: assets/images/basin3.png
 nav-menu: false
 show_tile: true
 order: 5

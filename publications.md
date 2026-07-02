@@ -2,7 +2,6 @@
 layout: post
 title: Publications
 description: selected papers, from chimera states to foundation models
-image: assets/images/attractors.jpg
 nav-menu: true
 show_tile: true
 order: 1
@@ -14,7 +13,6 @@ or [Google Scholar](https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en
 
 * F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__&dagger;, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. 8, 146–159 (2026)](https://doi.org/10.1038/s42254-025-00916-3)
 * __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [ICLR 2026](https://openreview.net/forum?id=EUAXc9Hlvm)
-* P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__&dagger;, *The size of the sync basin resolved*, [Phys. Rev. E 112, L052201 (2025)](https://doi.org/10.1103/pb4f-kqzq)
 * __Y. Zhang__&dagger;, E. R. Santos, H. Zhang, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [Chaos 35, 073102 (2025)](https://doi.org/10.1063/5.0262977)
 * R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)
 * __Y. Zhang__ and W. Gilpin, *Zero-shot forecasting of chaotic systems*, [ICLR 2025](https://openreview.net/pdf?id=TqYjhJrp9m)
@@ -22,10 +20,8 @@ or [Google Scholar](https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en
 * __Y. Zhang__ and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
 * __Y. Zhang__\*&dagger;, M. Lucas\*, and F. Battiston, *Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes*, [Nat. Commun. 14, 1605 (2023)](https://doi.org/10.1038/s41467-023-37190-9)
 * __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 194101 (2021)](https://doi.org/10.1103/PhysRevLett.127.194101)
-* __Y. Zhang__&dagger; and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [Nat. Commun. 12, 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9)
 * __Y. Zhang__, J. L. Ocampo-Espindola, I. Z. Kiss, and A. E. Motter, *Random heterogeneity outperforms design in network synchronization*, [Proc. Natl. Acad. Sci. U.S.A. 118, e2024299118 (2021)](https://doi.org/10.1073/pnas.2024299118)
 * __Y. Zhang__&dagger; and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62, 817–836 (2020)](https://doi.org/10.1137/19M127358X)
 * __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
-* J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: Trading symmetry for stability*, [Phys. Rev. Lett. 122, 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
 
 \* equal contributions, &nbsp; &dagger; corresponding author

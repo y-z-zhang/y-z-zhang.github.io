@@ -2,7 +2,7 @@
 layout: post
 title: Network Dynamics
 description: synchronization, chimeras, and more
-image: assets/images/cluster.jpg
+image: assets/images/cover3.jpg
 nav-menu: false
 show_tile: true
 order: 4
