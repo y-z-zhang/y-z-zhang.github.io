@@ -51,6 +51,7 @@ author: Yuanzhao Zhang
     </p>
 
     <p style="font-size: 0.95rem;">
+      <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AID Lab</a> &nbsp;·&nbsp;
       <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> &nbsp;·&nbsp;
       <a href="https://orcid.org/0000-0002-2056-7755" target="_blank" rel="noopener">ORCID</a> &nbsp;·&nbsp;
       <a href="assets/cv.pdf" target="_blank" rel="noopener">CV</a> &nbsp;·&nbsp;
