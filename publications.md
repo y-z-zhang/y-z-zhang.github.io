@@ -6,76 +6,24 @@ show_tile: true
 order: 1
 ---
 
-A full list is also available on [Google Scholar](https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en).
+Selected publications are listed below. For the complete, up-to-date list—including
+preprints—see the [AID Lab publications page](https://lab.y-zhang.com/publications.html)
+or [Google Scholar](https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en).
 
-## Preprints
-
-* I. Léon, R. Muolo, __Y. Zhang__, and M. Lucas, *Symmetry-based selection rules for higher-order interactions in coupled oscillators*, [arXiv:2606.04904](https://arxiv.org/abs/2606.04904)
-* X. Cheng, W. Yuan, Z. Mu, __Y. Zhang__, Y. Yang, H. Wang, Z. Sun, and C. Liu, *Scaling world-model reinforcement learning through diffusion policy optimization*, [arXiv:2605.26282](https://arxiv.org/abs/2605.26282)
-* H. Hartle, P. L. Krapivsky, S. Redner, and __Y. Zhang__, *Anomalous scaling in redirection networks*, [arXiv:2604.01540](https://arxiv.org/abs/2604.01540)
-* R. Delabays, __Y. Zhang__, F. Dörfler, and G. De Pasquale, *Data-driven control of hypergraphs: Leveraging THIS to damp noise in diffusive hypergraphs*, [arXiv:2511.08647](https://arxiv.org/abs/2511.08647)
-* __Y. Zhang__, K. M. Rock, and S. P. Cornelius, *Tempological control of network dynamics*, [arXiv:2510.10926](https://arxiv.org/abs/2510.10926)
-* P. S. Skardal, F. Battiston, M. Lucas, M. S. Mizuhara, G. Petri, and __Y. Zhang__, *Mixed higher-order coupling stabilizes new states*, [arXiv:2510.09387](https://arxiv.org/abs/2510.09387)
-* F. M. Brady\*, __Y. Zhang__\*, and A. E. Motter, *Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
-
-## Publications
-
-### 2026
-* B. H. Schlomann, W. S. DeWitt, __Y. Zhang__, and K. Shah, *Ignition criteria for trigger waves in cell signaling*, [PRX Life 4, 023003 (2026)](https://link.aps.org/doi/10.1103/z7hq-1gxg)
 * F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__&dagger;, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. 8, 146–159 (2026)](https://doi.org/10.1038/s42254-025-00916-3)
-* Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz, and S. L. Brunton, *Signature of glassy dynamics in dynamic mode decompositions*, [Phys. Rev. E 113, L053301 (2026)](https://doi.org/10.1103/ng8q-ttyb)
 * __Y. Zhang__&dagger; and W. Gilpin, *Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning*, [ICLR 2026](https://openreview.net/forum?id=EUAXc9Hlvm)
-* X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information Shapes Koopman Representation*, [ICLR 2026](https://openreview.net/forum?id=Szh0ELyQxL)
-
-### 2025
-* D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning Beyond Experience: Generalizing to Unseen State Space with Reservoir Computing*, [Chaos 35, 103146 (2025)](https://doi.org/10.1063/5.0283421)
 * P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__&dagger;, *The size of the sync basin resolved*, [Phys. Rev. E 112, L052201 (2025)](https://doi.org/10.1103/pb4f-kqzq)
 * __Y. Zhang__&dagger;, E. R. Santos, H. Zhang, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [Chaos 35, 073102 (2025)](https://doi.org/10.1063/5.0262977)
 * R. Delabays, G. De Pasquale, F. Dörfler, and __Y. Zhang__&dagger;, *Hypergraph reconstruction from dynamics*, [Nat. Commun. 16, 2691 (2025)](https://doi.org/10.1038/s41467-025-57664-2)
 * __Y. Zhang__ and W. Gilpin, *Zero-shot forecasting of chaotic systems*, [ICLR 2025](https://openreview.net/pdf?id=TqYjhJrp9m)
-
-### 2024
 * __Y. Zhang__&dagger;, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [Sci. Adv. 10, ado8049 (2024)](https://doi.org/10.1126/sciadv.ado8049)
-
-### 2023
 * __Y. Zhang__ and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
-* Y. Huang, __Y. Zhang__, and R. Braun, *A minimal model of peripheral clocks reveals differential circadian re-entrainment in aging*, [Chaos 33, 093104 (2023)](https://doi.org/10.1063/5.0157524)
 * __Y. Zhang__\*&dagger;, M. Lucas\*, and F. Battiston, *Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes*, [Nat. Commun. 14, 1605 (2023)](https://doi.org/10.1038/s41467-023-37190-9)
-* Z. Chen, T. Anglea, __Y. Zhang__ and Y. Wang, *Optimal synchronization in pulse-coupled oscillator networks using reinforcement learning*, [PNAS Nexus 2, pgad102 (2023)](https://doi.org/10.1093/pnasnexus/pgad102)
-
-### 2021
 * __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 194101 (2021)](https://doi.org/10.1103/PhysRevLett.127.194101)
-* __Y. Zhang__&dagger;, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [Commun. Phys. 4, 195 (2021)](https://doi.org/10.1038/s42005-021-00695-0)
 * __Y. Zhang__&dagger; and S. H. Strogatz, *Designing temporal networks that synchronize under resource constraints*, [Nat. Commun. 12, 3273 (2021)](https://doi.org/10.1038/s41467-021-23446-9)
 * __Y. Zhang__, J. L. Ocampo-Espindola, I. Z. Kiss, and A. E. Motter, *Random heterogeneity outperforms design in network synchronization*, [Proc. Natl. Acad. Sci. U.S.A. 118, e2024299118 (2021)](https://doi.org/10.1073/pnas.2024299118)
-* Y. Sugitani\*, __Y. Zhang__\*, and A. E. Motter, *Synchronizing chaos with imperfections*, [Phys. Rev. Lett. 126, 164101 (2021)](https://doi.org/10.1103/PhysRevLett.126.164101)
-* __Y. Zhang__ and A. E. Motter, *Mechanism for strong chimeras*, [Phys. Rev. Lett. 126, 094101 (2021)](https://doi.org/10.1103/PhysRevLett.126.094101)
-* M. Feng, Y. Song, S. H. Chen, __Y. Zhang__, and R. Zhou, *Molecular mechanism of secreted amyloid-β precursor protein in binding and modulating GABABR1a*, [Chem. Sci. 12, 6107-6116 (2021)](https://doi.org/10.1039/d0sc06946a)
-
-### 2020
 * __Y. Zhang__&dagger; and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62, 817–836 (2020)](https://doi.org/10.1137/19M127358X)
 * __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
-* B. Li, __Y. Zhang__, X. Meng, and R. Zhou, *Zipper-like unfolding of dsDNA caused by graphene wrinkles*, [J. Phys. Chem. C 124, 3332-3340 (2020)](https://dx.doi.org/10.1021/acs.jpcc.9b08778)
-
-### 2019
 * J. D. Hart\*, __Y. Zhang__\*, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: Trading symmetry for stability*, [Phys. Rev. Lett. 122, 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
-
-### 2018
-* __Y. Zhang__ and A. E. Motter, *Identical synchronization of nonidentical oscillators: When only birds of different feathers flock together*, [Nonlinearity 31, R1-R23 (2018)](https://doi.org/10.1088/1361-6544/aa8fe7)
-
-### 2017
-* __Y. Zhang__, T. Nishikawa and A. E. Motter, *Asymmetry-induced synchronization in oscillator networks*, [Phys. Rev. E 95, 062215 (2017)](http://dx.doi.org/10.1103/PhysRevE.95.062215)
-* G. Duan\*, __Y. Zhang__\*, B. Luan, J. K. Weber, R. W. Zhou, Z. Yang, L. Zhao, J. Xu, J. Luo and R. Zhou, *Graphene-induced pore formation on cell membranes*, [Sci. Rep. 7, 42767 (2017)](http://dx.doi.org/10.1038/srep42767)
-
-### 2016
-* __Y. Zhang__, J. K. Weber and R. Zhou, *Folding and stabilization of native-sequence-reversed proteins*, [Sci. Rep. 6, 25138 (2016)](http://dx.doi.org/10.1038/srep25138)
-* Z. Lin and __Y. Zhang__, *Stirring by multiple cylinders in potential flow*, [J. Fluid Mech. 794, 552 (2016)](http://dx.doi.org/10.1017/jfm.2016.107)
-* Z. Gu\*, __Y. Zhang__\*, B. Luan and R. Zhou, *DNA translocation through single-layer boron nitride nanopores*, [Soft Matter 12, 817 (2016)](http://dx.doi.org/10.1039/c5sm02197a)
-
-### 2014
-* __Y. Zhang__\*, C. A. Jimenez-Cruz\*, J. Wang, Z. Yang, B. Zhou and R. Zhou, *Bio-mimicking of proline-rich motif applied to carbon nanotube reveals unexpected subtleties underlying nanoparticle functionalization*, [Sci. Rep. 4, 7229 (2014)](http://dx.doi.org/10.1038/srep07229)
-
-### 2013
-* Y. Tu, H. Lu, __Y. Zhang__, T. Huynh and R. Zhou, *Capability of charge signal conversion and transmission by water chains confined inside Y-shaped carbon nanotubes*, [J. Chem. Phys. 138, 015104 (2013)](http://dx.doi.org/10.1063/1.4773221)
 
 \* equal contributions, &nbsp; &dagger; corresponding author
