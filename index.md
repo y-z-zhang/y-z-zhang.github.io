@@ -49,7 +49,7 @@ author: Yuanzhao Zhang
       I received my Ph.D. in Physics from Northwestern, advised by 
       <a href="https://dyn.phys.northwestern.edu/" target="_blank" rel="noopener">Adilson Motter</a>.
       You can reach me at 
-      <a href="mailto:yzhang@santafe.edu">yzhang@santafe.edu</a>.
+      <a href="mailto:yuanzhao.zhang@rochester.edu">yuanzhao.zhang@rochester.edu</a>.
     </p>
 
     <p style="font-size: 0.95rem;">
