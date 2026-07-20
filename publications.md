@@ -27,5 +27,3 @@ or [Google Scholar](https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en
 * __Y. Zhang__, J. L. Ocampo-Espindola, I. Z. Kiss, and A. E. Motter, *Random heterogeneity outperforms design in network synchronization*, [Proc. Natl. Acad. Sci. U.S.A. 118, e2024299118 (2021)](https://doi.org/10.1073/pnas.2024299118)
 * __Y. Zhang__&dagger; and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62, 817–836 (2020)](https://doi.org/10.1137/19M127358X)
 * __Y. Zhang__, Z. G. Nicolaou, J. D. Hart, R. Roy, and A. E. Motter, *Critical switching in globally attractive chimeras*, [Phys. Rev. X 10, 011044 (2020)](https://doi.org/10.1103/PhysRevX.10.011044)
-
-\* equal contributions, &nbsp; &dagger; corresponding author
