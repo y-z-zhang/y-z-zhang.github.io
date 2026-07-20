@@ -1,10 +1,15 @@
 ---
 layout: home
-title: Home
+# no title: jekyll-seo-tag then renders "Yuanzhao Zhang | <site tagline>" for the
+# homepage <title> and plain "Yuanzhao Zhang" for og:title
 landing-title: 'Yuanzhao Zhang (章元肇)'
-description: Homepage of Yuanzhao Zhang
-image: null
-author: Yuanzhao Zhang
+description: >-
+  Yuanzhao Zhang is a Simons Empire Assistant Professor of Physics at the
+  University of Rochester, leading the AID Lab (AI and Dynamics Group) on
+  complex systems, nonlinear dynamics, networks, and AI for science.
+image: assets/images/cover2.jpg
+seo:
+  type: Person
 ---
 
 <div 
@@ -19,8 +24,8 @@ author: Yuanzhao Zhang
   <img 
     src="assets/images/me.jpeg"
     alt="Yuanzhao Zhang"
-    width="1350"
-    height="2147"
+    width="900"
+    height="1431"
     fetchpriority="high"
     style="
       width: 450px; 

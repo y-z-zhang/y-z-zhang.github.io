@@ -1,7 +1,13 @@
 ---
 layout: post
 title: Publications
-description: selected papers
+description: >-
+  Selected publications by Yuanzhao Zhang in Nature Communications, PNAS, PRL,
+  PRX, Science Advances, SIAM Review, and ICLR, spanning network dynamics,
+  higher-order interactions, basins of attraction, and machine learning.
+tile-description: selected papers
+image: assets/images/cover2.jpg
+hide-image: true
 nav-menu: true
 show_tile: true
 order: 1

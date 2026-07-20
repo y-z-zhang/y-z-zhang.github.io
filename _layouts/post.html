@@ -22,7 +22,7 @@
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+		{% if page.image and page.hide-image != true %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title | escape }}" /></span>{% endif %}
 		<p>{{ content }}</p>
 	</div>
 </section>
@@ -30,8 +30,6 @@
 </div>
 
     {% include footer.html %}
-
-    {% include lightbox.html %}
 
 </body>
 

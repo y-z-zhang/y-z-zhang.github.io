@@ -2,7 +2,11 @@
 title: Yuanzhao Zhang
 subtitle: University of Rochester
 email: yuanzhao.zhang@rochester.edu
-description: Research Homepage of Yuanzhao Zhang
+tagline: Complex Systems, Nonlinear Dynamics & AI for Science
+description: >-
+  Yuanzhao Zhang is a Simons Empire Assistant Professor of Physics at the
+  University of Rochester, leading the AID Lab on complex systems, nonlinear
+  dynamics, networks, and AI for science.
 bio: Complex Systems | Nonlinear Dynamics | Networks | AI for Science | Physics of AI
 
 # academic profile links
@@ -12,7 +16,9 @@ orcid_url: https://orcid.org/0000-0002-2056-7755
 cv_url: assets/cv.pdf
 #baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://y-zhang.com" #"https://y-z-zhang.github.io" # the base hostname & protocol for your site
-author: Yuanzhao Zhang
+author:
+  name: Yuanzhao Zhang
+  twitter: YuanzhaoZhang
 street_address:
 city:
 state:
@@ -23,6 +29,20 @@ phone:
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 14
+
+# structured data for search engines (jekyll-seo-tag)
+social:
+  name: Yuanzhao Zhang
+  links:
+    - https://scholar.google.com/citations?user=xueImSMAAAAJ
+    - https://orcid.org/0000-0002-2056-7755
+    - https://github.com/y-z-zhang
+    - https://twitter.com/YuanzhaoZhang
+    - https://lab.y-zhang.com
+
+twitter:
+  username: YuanzhaoZhang
+  card: summary_large_image
 
 # social settings
 500px_url:
