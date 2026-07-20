@@ -15,7 +15,7 @@ seo:
 <div 
   style="
     display: flex; 
-    align-items: flex-start; 
+    align-items: center; 
     gap: 40px 100px; 
     flex-wrap: wrap;
   "
@@ -75,6 +75,12 @@ seo:
       currently keeping me awake at night:
     </p>
 
+  </div>
+
+</div>
+
+<div style="max-width: 80ch; margin-top: 1em;">
+
     <ol>
       <li>
         <strong>When and how can machine learning models extrapolate without physics?</strong>
@@ -107,7 +113,5 @@ seo:
       postdocs, and undergraduate researchers—see
       <a href="https://lab.y-zhang.com/join.html" target="_blank" rel="noopener">how to join the AID Lab</a>.
     </p>
-
-  </div>
 
 </div>
