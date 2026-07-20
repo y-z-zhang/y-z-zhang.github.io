@@ -8,7 +8,7 @@ show_tile: true
 order: 5
 ---
 
-### High-dimensional basins
+## High-dimensional basins
 What do basins look like in high-dimensional systems?
 * __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 194101 (2021)](https://doi.org/10.1103/PhysRevLett.127.194101)
 
@@ -18,7 +18,7 @@ Do higher-order interactions expand or shrink basins?
 How do basin sizes scale?
 * P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__, *The size of the sync basin resolved*, [Phys. Rev. E 112, L052201 (2025)](https://doi.org/10.1103/pb4f-kqzq)
 
-### Fractal basins
+## Fractal basins
 Can we learn complicated basins from data using machine learning?
 * __Y. Zhang__ and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
 * D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning beyond experience: Generalizing to unseen state space with reservoir computing*, [Chaos 35, 103146 (2025)](https://doi.org/10.1063/5.0283421)

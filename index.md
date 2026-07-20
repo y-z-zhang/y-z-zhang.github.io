@@ -66,7 +66,7 @@ seo:
       <a href="https://orcid.org/0000-0002-2056-7755" target="_blank" rel="noopener">ORCID</a> &nbsp;·&nbsp;
       <a href="assets/cv.pdf" target="_blank" rel="noopener">CV</a> &nbsp;·&nbsp;
       <a href="https://github.com/y-z-zhang" target="_blank" rel="noopener">GitHub</a> &nbsp;·&nbsp;
-      <a href="https://twitter.com/YuanzhaoZhang" target="_blank" rel="noopener">X</a>
+      <a href="https://x.com/YuanzhaoZhang" target="_blank" rel="noopener">X</a>
     </p>
 
     <p>

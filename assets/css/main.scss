@@ -4,8 +4,7 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'libs/skel';
-@import 'font-awesome.min.css';
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic');
+@import 'font-awesome';
 
 /*
 	Forty by HTML5 UP
@@ -78,3 +77,15 @@
 	@import 'layout/footer';
 	@import 'layout/wrapper';
 	@import 'layout/menu';
+
+// Overrides.
+
+	// Section headings inside post-layout pages are h2 for a proper document
+	// outline but keep the theme's h3 visual size.
+	#main.alt .inner h2 {
+		font-size: 1.35em;
+
+		@include breakpoint(small) {
+			font-size: 1.25em;
+		}
+	}
