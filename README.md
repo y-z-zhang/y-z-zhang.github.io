@@ -14,10 +14,10 @@ Companion site: [AID Lab](https://lab.y-zhang.com) (research group), maintained 
 
 - `index.md` — homepage bio and research questions
 - `publications.md` — selected publications (full list on the lab site)
-- `research.html` + theme pages (`machine-learning.md`, `higher-order-interactions.md`,
-  `network-dynamics.md`, `basins.md`) — research areas
-- `photos.md` — photo gallery (`assets/images/personal/`)
-- `_config.yml` — site settings, profile links (Scholar, ORCID, CV, lab)
+- research theme pages (`machine-learning.md`, `higher-order-interactions.md`,
+  `network-dynamics.md`, `basins.md`) — homepage tiles, one per area
+- `photos.md` — photo gallery (WebP derivatives in `assets/images/personal/`)
+- `_config.yml` — site settings and profile links
 
 ## Local development
 
