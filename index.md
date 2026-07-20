@@ -105,8 +105,9 @@ seo:
       of firing activities, collective order often emerges without central control. 
       I study the physics of emergence by representing complex systems as networks or hypergraphs, 
       asking how coupling structure shapes collective behavior. 
-      Insights from these questions can inform everything from designing neural networks that 
-      navigate complex loss surfaces to restoring disrupted circadian rhythms after long-haul flights.
+      Insights from these studies can inform everything from designing neural networks that 
+      better navigate complex loss surfaces to restoring disrupted circadian rhythms faster 
+      after long-haul flights.
     </p>
 
 </div>
