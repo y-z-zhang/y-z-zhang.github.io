@@ -102,15 +102,12 @@ seo:
     <p style="margin: 0;">
       <strong>How does global order emerge from local interactions?</strong>
       From fireflies spontaneously synchronizing their flashes to neurons generating avalanches
-      of firing activity, nature is full of examples of order emerging without central control. 
-      What mechanisms allow such global coordination to arise from local interactions?
-      I study these systems by representing them as networks or hypergraphs of nonlinear nodes 
-      and analyzing them through the lenses of dynamical systems and network theory. 
-      How does network structure shape macroscopic behavior? 
-      How do basins of attraction look in such high-dimensional nonlinear systems? 
+      of firing activity, nature is full of order emerging without central control. 
+      I study these systems by representing them as networks or hypergraphs of nonlinear nodes, 
+      asking how structure shapes macroscopic behavior and what basins of attraction look like 
+      in high dimensions. 
       Insights from these questions can inform everything from designing neural networks that 
-      navigate complex loss surfaces more effectively to developing strategies 
-      that quickly restore disrupted circadian rhythms after long-haul flights.
+      navigate complex loss surfaces to restoring disrupted circadian rhythms after long-haul flights.
     </p>
 
 </div>
