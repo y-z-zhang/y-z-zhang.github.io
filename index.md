@@ -47,7 +47,7 @@ seo:
   >
     <p>
       I am a Simons Empire Assistant Professor in the Department of Physics and Astronomy at the
-      <a href="https://www.rochester.edu" target="_blank" rel="noopener">University of Rochester</a>,
+      <a href="https://www.pas.rochester.edu/people/faculty/zhang-yuanzhao/index.html" target="_blank" rel="noopener">University of Rochester</a>,
       where I lead the <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AID Lab</a>
       (AI &amp; Dynamics Group), working at the interface of complex networks, nonlinear
       dynamics, and machine learning.
