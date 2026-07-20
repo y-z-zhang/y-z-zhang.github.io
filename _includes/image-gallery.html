@@ -94,12 +94,11 @@
 	}
 </style>
 
-{% assign gallery_files = site.static_files | where_exp: "f", "f.path contains include.folder" | sort: "path" %}
+{%- assign thumbs_folder = include.folder | append: "thumbs/" -%}
+{% assign gallery_files = site.static_files | where_exp: "f", "f.path contains thumbs_folder" | sort: "path" %}
 <div class="photo-grid" id="photo-grid">
 {%- for file in gallery_files -%}
-	{%- if file.path contains "/thumbs/" or file.path contains "/large/" -%}{%- continue -%}{%- endif -%}
-	{%- assign ext = file.extname | downcase -%}
-	{%- if ext == ".jpg" or ext == ".jpeg" or ext == ".png" -%}
+	{%- if file.extname == ".webp" -%}
 	{%- assign filenameparts = file.path | split: "/" -%}
 	{%- assign stem = filenameparts | last | replace: file.extname, "" -%}
 	<a href="/{{ include.folder }}large/{{ stem }}.webp" data-stem="{{ stem }}">
