@@ -118,24 +118,6 @@
 			if (skel.vars.browser == 'ie' || skel.vars.browser == 'edge')
 				$body.addClass('is-ie');
 
-		// Fix: Placeholder polyfill.
-			$('form').placeholder();
-
-		// Prioritize "important" elements on medium.
-			skel.on('+medium -medium', function() {
-				$.prioritize(
-					'.important\\28 medium\\29',
-					skel.breakpoint('medium').active
-				);
-			});
-
-		// Scrolly.
-			$('.scrolly').scrolly({
-				offset: function() {
-					return $header.height() - 2;
-				}
-			});
-
 		// Tiles.
 			var $tiles = $('.tiles > article');
 

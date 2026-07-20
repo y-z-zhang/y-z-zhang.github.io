@@ -1,20 +1,6 @@
 <section id="tiles" class="tiles">
-  {% for post in site.posts limit:site.tiles-count %}
-  {% if site.tiles-source == 'posts' %}
-  <article>
-    <span class="image">
-      <img src="{{ post.image }}" alt="{{ post.title | escape }}" loading="lazy" decoding="async" />
-    </span>
-    <header class="major">
-      <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
-      <p>{{ post.tile-description | default: post.description }}</p>
-    </header>
-  </article>
-  {% endif %}
-  {% endfor %}
   {% assign tile_pages = site.pages | where: "show_tile", true | sort: "order" %}
-  {% for page in tile_pages limit:site.tiles-count %}
-  {% if site.tiles-source == 'pages' %}
+  {% for page in tile_pages %}
   <article>
     {% if page.image and page.hide-image != true %}
     <span class="image">
@@ -26,6 +12,5 @@
       <p>{{ page.tile-description | default: page.description }}</p>
     </header>
   </article>
-  {% endif %}
   {% endfor %}
 </section>

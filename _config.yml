@@ -12,23 +12,11 @@ bio: Complex Systems | Nonlinear Dynamics | Networks | AI for Science | Physics 
 # academic profile links
 lab_url: https://lab.y-zhang.com
 scholar_url: https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en
-orcid_url: https://orcid.org/0000-0002-2056-7755
-cv_url: assets/cv.pdf
 #baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "https://y-zhang.com" #"https://y-z-zhang.github.io" # the base hostname & protocol for your site
 author:
   name: Yuanzhao Zhang
   twitter: YuanzhaoZhang
-street_address:
-city:
-state:
-zip_code:
-country:
-phone:
-
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 14
 
 # structured data for search engines (jekyll-seo-tag)
 social:
@@ -45,16 +33,7 @@ twitter:
   card: summary_large_image
 
 # social settings
-500px_url:
-facebook_url:
 github_url: https://github.com/y-z-zhang
-gitlab_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url: https://x.com/YuanzhaoZhang
 
 # build settings
 markdown: kramdown
