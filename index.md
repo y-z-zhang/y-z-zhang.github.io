@@ -79,39 +79,44 @@ seo:
 
 </div>
 
-<div style="max-width: 80ch; margin-top: 1em;">
+<div
+  style="
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 1.5em 4em;
+    margin-top: 2em;
+  "
+>
 
-    <ol>
-      <li>
-        <strong>When and how can machine learning models extrapolate without physics?</strong>
-        Incorporating physics into neural networks—symmetries, conservation laws, 
-        and other inductive biases—is known to improve out-of-distribution generalization. 
-        Yet many real-world complex systems lack fully understood or easily encoded physics. 
-        Can machine learning models still extrapolate in such cases? 
-        If so, what hidden inductive biases or implicit regularization are responsible? 
-        By studying systems ranging from reservoir computers to time-series foundation models, 
-        I hope to uncover the principles that enable physics-uninformed extrapolation in machine learning.
-      </li>
+    <p style="margin: 0;">
+      <strong>When and how can machine learning models extrapolate without physics?</strong>
+      Incorporating physics into neural networks—symmetries, conservation laws, 
+      and other inductive biases—is known to improve out-of-distribution generalization. 
+      Yet many real-world complex systems lack fully understood or easily encoded physics. 
+      Can machine learning models still extrapolate in such cases? 
+      If so, what hidden inductive biases or implicit regularization are responsible? 
+      By studying systems ranging from reservoir computers to time-series foundation models, 
+      I hope to uncover the principles that enable physics-uninformed extrapolation in machine learning.
+    </p>
 
-      <li>
-        <strong>How does global order emerge from local interactions?</strong>
-        From fireflies spontaneously synchronizing their flashes to neurons generating avalanches
-        of firing activity, nature is full of examples of order emerging without central control. 
-        What mechanisms allow such global coordination to arise from local interactions?
-        I study these systems by representing them as networks or hypergraphs of nonlinear nodes 
-        and analyzing them through the lenses of dynamical systems and network theory. 
-        How does network structure shape macroscopic behavior? 
-        How do basins of attraction look in such high-dimensional nonlinear systems? 
-        Insights from these questions can inform everything from designing neural networks that 
-        navigate complex loss surfaces more effectively to developing strategies 
-        that quickly restore disrupted circadian rhythms after long-haul flights.
-      </li>
-    </ol>
-
-    <p>
-      If these questions keep you up at night too, my group is recruiting PhD students,
-      postdocs, and undergraduate researchers—see
-      <a href="https://lab.y-zhang.com/join.html" target="_blank" rel="noopener">how to join the AID Lab</a>.
+    <p style="margin: 0;">
+      <strong>How does global order emerge from local interactions?</strong>
+      From fireflies spontaneously synchronizing their flashes to neurons generating avalanches
+      of firing activity, nature is full of examples of order emerging without central control. 
+      What mechanisms allow such global coordination to arise from local interactions?
+      I study these systems by representing them as networks or hypergraphs of nonlinear nodes 
+      and analyzing them through the lenses of dynamical systems and network theory. 
+      How does network structure shape macroscopic behavior? 
+      How do basins of attraction look in such high-dimensional nonlinear systems? 
+      Insights from these questions can inform everything from designing neural networks that 
+      navigate complex loss surfaces more effectively to developing strategies 
+      that quickly restore disrupted circadian rhythms after long-haul flights.
     </p>
 
 </div>
+
+<p style="margin-top: 2em;">
+  If these questions keep you up at night too, my group is recruiting PhD students,
+  postdocs, and undergraduate researchers—see
+  <a href="https://lab.y-zhang.com/join.html" target="_blank" rel="noopener">how to join the AID Lab</a>.
+</p>
