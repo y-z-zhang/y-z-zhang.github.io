@@ -102,10 +102,9 @@ seo:
     <p style="margin: 0;">
       <strong>How does global order emerge from local interactions?</strong>
       From fireflies spontaneously synchronizing their flashes to neurons generating avalanches
-      of firing activity, nature is full of order emerging without central control. 
-      I study these systems by representing them as networks or hypergraphs of nonlinear nodes, 
-      asking how structure shapes macroscopic behavior and what basins of attraction look like 
-      in high dimensions. 
+      of firing activities, collective order often emerges without central control. 
+      I study the physics of emergence by representing complex systems as networks or hypergraphs, 
+      asking how coupling structure shapes collective behavior. 
       Insights from these questions can inform everything from designing neural networks that 
       navigate complex loss surfaces to restoring disrupted circadian rhythms after long-haul flights.
     </p>
