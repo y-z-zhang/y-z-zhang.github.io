@@ -175,6 +175,10 @@
 
 							var href = $link.attr('href');
 
+							// Let modified clicks (new tab/window) fall through natively.
+								if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.which === 2)
+									return;
+
 							// Prevent default.
 								event.stopPropagation();
 								event.preventDefault();
@@ -187,11 +191,11 @@
 								window.setTimeout(function() {
 
 									if ($link.attr('target') == '_blank')
-										window.open(href);
+										window.open(href, '_blank', 'noopener');
 									else
 										location.href = href;
 
-								}, 500);
+								}, 250);
 
 						});
 
@@ -299,18 +303,30 @@
 				})
 				.on('click', 'a', function(event) {
 
-					var href = $(this).attr('href');
+					var href = $(this).attr('href'),
+						target = $(this).attr('target');
+
+					// Let modified clicks (new tab/window) fall through natively.
+						if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.which === 2)
+							return;
 
 					event.preventDefault();
 					event.stopPropagation();
 
-					// Hide.
-						$menu._hide();
+					// Hide unconditionally (bypasses the animation debounce lock,
+					// which would otherwise leave the menu stuck open if a link is
+					// clicked within 350ms of opening).
+						$body.removeClass('is-menu-visible');
 
 					// Redirect.
-						window.setTimeout(function() {
-							window.location.href = href;
-						}, 250);
+						if (href && href != '#menu') {
+
+							if (target == '_blank')
+								window.open(href, '_blank', 'noopener');
+							else
+								window.location.href = href;
+
+						}
 
 				});
 
@@ -324,7 +340,7 @@
 					$body.removeClass('is-menu-visible');
 
 				})
-				.append('<a class="close" href="#menu">Close</a>');
+				.append('<a class="close" href="#menu" aria-label="Close menu">Close</a>');
 
 			$body
 				.on('click', 'a[href="#menu"]', function(event) {
@@ -349,6 +365,44 @@
 							$menu._hide();
 
 				});
+
+			// Accessibility: reflect menu state on the toggle, keep the background
+			// inert while the overlay is open, and manage focus.
+				var $menuToggle = $('#header a[href="#menu"]'),
+					wrapperEl = document.getElementById('wrapper'),
+					menuWasOpen = false,
+					menuFocusTimer = null;
+
+				$menu.attr('aria-label', 'Site menu');
+
+				if (window.MutationObserver)
+					new MutationObserver(function() {
+
+						var open = $body.hasClass('is-menu-visible');
+
+						// Only react to actual menu state changes (body classes
+						// also mutate on page load).
+							if (open === menuWasOpen)
+								return;
+
+							menuWasOpen = open;
+
+						$menuToggle.attr('aria-expanded', open ? 'true' : 'false');
+
+						if (wrapperEl && 'inert' in wrapperEl)
+							wrapperEl.inert = open;
+
+						window.clearTimeout(menuFocusTimer);
+
+						if (open)
+							menuFocusTimer = window.setTimeout(function() {
+								if ($body.hasClass('is-menu-visible'))
+									$menu.find('.links a').first().trigger('focus');
+							}, 400);
+						else if ($menu.has(document.activeElement).length > 0 || document.activeElement === document.body)
+							$menuToggle.first().trigger('focus');
+
+					}).observe(document.body, { attributes: true, attributeFilter: ['class'] });
 
 	});
 

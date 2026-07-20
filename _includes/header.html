@@ -5,7 +5,14 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "/" | absolute_url }}" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
-		<a href="#menu">Menu</a>
+		{% assign nav_pages = site.pages | sort: "order" %}
+		{% for p in nav_pages %}
+			{% if p.layout != "home" and p.nav-menu == true %}
+				<a class="inline-nav" href="{{ p.url | absolute_url }}">{{ p.title }}</a>
+			{% endif %}
+		{% endfor %}
+		<a class="inline-nav" href="https://lab.y-zhang.com" target="_blank" rel="noopener">AID Lab&nbsp;&#8599;</a>
+		<a href="#menu" aria-controls="menu" aria-expanded="false">Menu</a>
 	</nav>
 </header>
 

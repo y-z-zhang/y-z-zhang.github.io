@@ -41,8 +41,7 @@ seo:
     style="
       flex: 1;
       min-width: 260px;
-      max-width: 1000px;
-      font-size: 1rem;
+      max-width: 65ch;
     "
   >
     <p>
@@ -60,7 +59,7 @@ seo:
       <a href="mailto:yuanzhao.zhang@rochester.edu">yuanzhao.zhang@rochester.edu</a>.
     </p>
 
-    <p style="font-size: 0.95rem;">
+    <p style="font-size: 0.95em;">
       <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AID Lab</a> &nbsp;·&nbsp;
       <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> &nbsp;·&nbsp;
       <a href="https://orcid.org/0000-0002-2056-7755" target="_blank" rel="noopener">ORCID</a> &nbsp;·&nbsp;

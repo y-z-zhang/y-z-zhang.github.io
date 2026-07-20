@@ -89,3 +89,94 @@
 			font-size: 1.25em;
 		}
 	}
+
+	// Inline desktop navigation; the Menu overlay remains the sole
+	// navigation on smaller screens. Raw media query: the header needs
+	// ~1050px for logo + five links on one line (measured at the 12pt
+	// base font), so breakpoint(medium) at 980px would leave a 981-1044px
+	// band — including 1024px tablets — where the bar overflows.
+	#header nav a.inline-nav {
+		@media (max-width: 1080px) {
+			display: none;
+		}
+	}
+
+// Print.
+
+	// The dark theme prints as white-on-white without this; make pages
+	// (especially Publications) printable as black-on-white documents.
+	@media print {
+		* {
+			text-shadow: none !important;
+		}
+
+		body {
+			font-size: 11pt !important;
+		}
+
+		body, #wrapper, #main, .inner, section, article {
+			background: #fff !important;
+			color: #000 !important;
+		}
+
+		h1, h2, h3, h4, h5, h6, strong, b {
+			color: #000 !important;
+		}
+
+		// the theme's signature underline bar under headings
+		header.major > :first-child:after {
+			background-color: #000 !important;
+		}
+
+		a {
+			border-bottom: none !important;
+			color: #000 !important;
+			text-decoration: underline;
+		}
+
+		#header, #footer, #menu, nav, .photo-lightbox, .actions {
+			display: none !important;
+		}
+
+		// Keep the banner's text (the only place the name appears on the
+		// homepage) but drop its backdrop, size, and any banner image.
+		#banner {
+			background: none !important;
+			height: auto !important;
+			min-height: 0 !important;
+			padding: 0 !important;
+
+			.image {
+				display: none !important;
+			}
+
+			h1, p {
+				color: #000 !important;
+			}
+		}
+
+		#main {
+			padding: 0 !important;
+		}
+
+		#wrapper {
+			padding-top: 0 !important;
+		}
+
+		.tiles {
+			display: block !important;
+		}
+
+		.tiles article {
+			background-image: none !important;
+			display: block !important;
+			height: auto !important;
+			min-height: 0 !important;
+			padding: 0.75em 0 !important;
+			width: 100% !important;
+
+			&:before, &:after {
+				display: none !important;
+			}
+		}
+	}

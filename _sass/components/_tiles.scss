@@ -42,6 +42,7 @@
 
 			header {
 				position: relative;
+				text-shadow: 0 1px 4px rgba(0, 0, 0, 0.45);
 				z-index: 3;
 			}
 
@@ -79,7 +80,7 @@
 			}
 
 			&:after {
-				background-color: transparentize(_palette(bg), 0.75);
+				background-color: transparentize(_palette(bg), 0.5);
 				content: '';
 				display: block;
 				height: 100%;
@@ -92,7 +93,7 @@
 
 			&:hover {
 				&:before {
-					opacity: 0;
+					opacity: 0.4;
 				}
 			}
 
@@ -109,37 +110,37 @@
 
 			&:nth-child(6n - 5) {
 				&:before {
-					background-color: _palette(accent1);
+					background-color: mix(_palette(accent1), _palette(bg), 45%);
 				}
 			}
 
 			&:nth-child(6n - 4) {
 				&:before {
-					background-color: _palette(accent2);
+					background-color: mix(_palette(accent2), _palette(bg), 45%);
 				}
 			}
 
 			&:nth-child(6n - 3) {
 				&:before {
-					background-color: _palette(accent3);
+					background-color: mix(_palette(accent3), _palette(bg), 45%);
 				}
 			}
 
 			&:nth-child(6n - 2) {
 				&:before {
-					background-color: _palette(accent4);
+					background-color: mix(_palette(accent4), _palette(bg), 45%);
 				}
 			}
 
 			&:nth-child(6n - 1) {
 				&:before {
-					background-color: _palette(accent5);
+					background-color: mix(_palette(accent5), _palette(bg), 45%);
 				}
 			}
 
 			&:nth-child(6n) {
 				&:before {
-					background-color: _palette(accent6);
+					background-color: mix(_palette(accent6), _palette(bg), 45%);
 				}
 			}
 		}
