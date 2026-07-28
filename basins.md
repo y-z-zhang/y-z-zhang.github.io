@@ -6,6 +6,8 @@ image: assets/images/basin3.jpg
 nav-menu: false
 show_tile: true
 order: 5
+redirect_from:
+  - /basins-with-tentacles.html
 ---
 
 ## High-dimensional basins

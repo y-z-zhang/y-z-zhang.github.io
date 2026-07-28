@@ -44,3 +44,6 @@ sass:
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  # Keeps URLs of removed pages alive: they redirect to the page that now
+  # covers the same ground, so old inbound links and search results still land.
+  - jekyll-redirect-from

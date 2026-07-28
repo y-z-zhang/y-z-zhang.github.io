@@ -10,6 +10,12 @@ description: >-
 image: assets/images/cover2.jpg
 seo:
   type: Person
+redirect_from:
+  - /research.html
+  - /talks.html
+  - /mentoring.html
+  - /press.html
+  - /all_posts.html
 ---
 
 <div 

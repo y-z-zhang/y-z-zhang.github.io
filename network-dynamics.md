@@ -6,6 +6,14 @@ image: assets/images/cover3.jpg
 nav-menu: false
 show_tile: true
 order: 4
+redirect_from:
+  - /birds-of-different-feathers.html
+  - /disorder-beats-design.html
+  - /multilayer-networks.html
+  - /simultaneous-block-diagonalization.html
+  - /switching-chimera.html
+  - /temporal-sync.html
+  - /topological-control.html
 ---
 
 ## Order out of disorder
