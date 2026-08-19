@@ -7,7 +7,7 @@ Built with [Jekyll](https://jekyllrb.com) on a customized
 [Forty](https://html5up.net/forty) theme (HTML5 UP, CCA 3.0 license), deployed via
 GitHub Pages.
 
-Companion site: [AID Lab](https://lab.y-zhang.com) (research group), maintained in
+Companion site: [AI & Dynamics Group](https://lab.y-zhang.com) (research group), maintained in
 [y-z-zhang/aid-lab](https://github.com/y-z-zhang/aid-lab).
 
 ## Structure

@@ -5,7 +5,7 @@ layout: home
 landing-title: 'Yuanzhao Zhang (章元肇)'
 description: >-
   Yuanzhao Zhang is a Simons Empire Assistant Professor of Physics at the
-  University of Rochester, leading the AID Lab (AI and Dynamics Group) on
+  University of Rochester, leading the AI & Dynamics Group on
   complex systems, nonlinear dynamics, networks, and AI for science.
 image: assets/images/cover2.jpg
 seo:
@@ -53,8 +53,7 @@ redirect_from:
     <p>
       I am a Simons Empire Assistant Professor in the Department of Physics and Astronomy at the
       <a href="https://www.pas.rochester.edu/people/faculty/zhang-yuanzhao/index.html" target="_blank" rel="noopener">University of Rochester</a>,
-      where I lead the <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AID Lab</a>
-      (AI &amp; Dynamics Group), working at the interface of complex networks, nonlinear
+      where I lead the <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AI &amp; Dynamics Group</a>, working at the interface of complex networks, nonlinear
       dynamics, and machine learning.
       Before joining Rochester, I was an Omidyar Fellow at the Santa Fe Institute and a
       Schmidt Science Fellow at Cornell working with 
@@ -66,7 +65,7 @@ redirect_from:
     </p>
 
     <p style="font-size: 0.95em;">
-      <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AID Lab</a> &nbsp;·&nbsp;
+      <a href="https://lab.y-zhang.com" target="_blank" rel="noopener">AI &amp; Dynamics Group</a> &nbsp;·&nbsp;
       <a href="https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a> &nbsp;·&nbsp;
       <a href="https://orcid.org/0000-0002-2056-7755" target="_blank" rel="noopener">ORCID</a> &nbsp;·&nbsp;
       <a href="assets/cv.pdf" target="_blank" rel="noopener">CV</a> &nbsp;·&nbsp;
@@ -121,5 +120,5 @@ redirect_from:
 <p style="margin-top: 2em;">
   If these questions keep you up at night too, my group is recruiting PhD students,
   postdocs, and undergraduate researchers—see
-  <a href="https://lab.y-zhang.com/join.html" target="_blank" rel="noopener">how to join the AID Lab</a>.
+  <a href="https://lab.y-zhang.com/join.html" target="_blank" rel="noopener">how to join the AI &amp; Dynamics Group</a>.
 </p>

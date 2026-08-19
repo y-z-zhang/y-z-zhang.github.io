@@ -14,7 +14,7 @@ order: 1
 ---
 
 Selected publications are listed below. For the complete, up-to-date list—including
-preprints—see the [AID Lab publications page](https://lab.y-zhang.com/publications.html)
+preprints—see the [AI &amp; Dynamics Group publications page](https://lab.y-zhang.com/publications.html)
 or [Google Scholar](https://scholar.google.com/citations?user=xueImSMAAAAJ&hl=en).
 
 * F. Battiston, C. Bick, M. Lucas, A. P. Millán, P. S. Skardal, and __Y. Zhang__, *Collective dynamics on higher-order networks*, [Nat. Rev. Phys. 8, 146–159 (2026)](https://doi.org/10.1038/s42254-025-00916-3)
