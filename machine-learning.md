@@ -20,7 +20,7 @@ Can neural networks extrapolate without structural priors?
 ## Reservoir computing
 Reservoir computing (RC) is a simple and efficient model-free framework for forecasting nonlinear dynamical systems from data. I am interested in understanding both the successes and the limitations of RC.
 * **Y. Zhang** and S. P. Cornelius, *Catch-22s of reservoir computing*, [Phys. Rev. Research 5, 033213 (2023)](https://doi.org/10.1103/PhysRevResearch.5.033213)
-* __Y. Zhang__, E. R. Santos, H. Zhang, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [Chaos 35, 073102 (2025)](https://doi.org/10.1063/5.0262977)
+* __Y. Zhang__, E. R. dos Santos, H. Zhang, and S. P. Cornelius, *How more data can hurt: Instability and regularization in next-generation reservoir computing*, [Chaos 35, 073102 (2025)](https://doi.org/10.1063/5.0262977)
 * D. A. Norton, __Y. Zhang__, and M. Girvan, *Learning beyond experience: Generalizing to unseen state space with reservoir computing*, [Chaos 35, 103146 (2025)](https://doi.org/10.1063/5.0283421)
 
 ## Causal inference
@@ -29,11 +29,11 @@ Can we infer causal hypergraphs from time-series data in a model-free fashion? H
 
 ## Koopman learning
 Can dynamic mode decomposition (DMD) automatically identify glassy dynamics (e.g., algebraic relaxation) from high-dimensional data?
-* Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz and S. L. Brunton, *Signature of glassy dynamics in dynamic modes decompositions*, [arXiv:2502.10918](https://arxiv.org/abs/2502.10918)
+* Z. G. Nicolaou, H. Cho, __Y. Zhang__, J. N. Kutz, and S. L. Brunton, *Signature of glassy dynamics in dynamic mode decompositions*, [Phys. Rev. E 113, L053301 (2026)](https://doi.org/10.1103/ng8q-ttyb)
 
 Can information theory help us find a good representation to learn Koopman operators?
 * X. Cheng, W. Yuan, Y. Yang, __Y. Zhang__, S. Cheng, Y. He, and Z. Sun, *Information shapes Koopman representation*, [ICLR 2026](https://openreview.net/forum?id=Szh0ELyQxL)
 
 ## Reinforcement learning
 Can we use reinforcement learning (RL) to improve synchronization? Would the solutions found by RL be interpretable?
-* Z. Chen,  T. Anglea, **Y. Zhang** and Y. Wang, *Optimal synchronization in pulse-coupled oscillator networks using reinforcement learning*, [PNAS Nexus 2, pgad102 (2023)](https://doi.org/10.1093/pnasnexus/pgad102)
+* Z. Chen, T. Anglea, **Y. Zhang**, and Y. Wang, *Optimal synchronization in pulse-coupled oscillator networks using reinforcement learning*, [PNAS Nexus 2, pgad102 (2023)](https://doi.org/10.1093/pnasnexus/pgad102)

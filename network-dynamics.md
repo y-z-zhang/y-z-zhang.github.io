@@ -22,14 +22,14 @@ Despite the common belief that individual differences are detrimental to uniform
 * __Y. Zhang__, J. L. Ocampo-Espindola, I. Z. Kiss, and A. E. Motter, *Random heterogeneity outperforms design in network synchronization*, [Proc. Natl. Acad. Sci. U.S.A. 118, e2024299118 (2021)](https://doi.org/10.1073/pnas.2024299118)
 * Y. Sugitani, __Y. Zhang__, and A. E. Motter, *Synchronizing chaos with imperfections*, [Phys. Rev. Lett. 126, 164101 (2021)](https://doi.org/10.1103/PhysRevLett.126.164101)
 * __Y. Zhang__ and A. E. Motter, *Identical synchronization of nonidentical oscillators: when only birds of different feathers flock together*, [Nonlinearity 31, R1–R23 (2018)](https://doi.org/10.1088/1361-6544/aa8fe7)
-* __Y. Zhang__, T. Nishikawa and A. E. Motter, *Asymmetry-induced synchronization in oscillator networks*, [Phys. Rev. E 95, 062215 (2017)](https://dx.doi.org/10.1103/PhysRevE.95.062215)
+* __Y. Zhang__, T. Nishikawa, and A. E. Motter, *Asymmetry-induced synchronization in oscillator networks*, [Phys. Rev. E 95, 062215 (2017)](https://dx.doi.org/10.1103/PhysRevE.95.062215)
 
 ## Cluster synchronization
 Complex networks often support complex synchronization patterns. Understanding such patterns will enable us to manipulate the behavior of numerous biological, social, and technological systems. I work on general theories and efficient algorithms to identify, characterize, and control synchronization patterns in both standard and generalized networks.
 
 * __Y. Zhang__, V. Latora, and A. E. Motter, *Unified treatment of synchronization patterns in generalized networks with higher-order, multilayer, and temporal interactions*, [Commun. Phys. 4, 195 (2021)](https://doi.org/10.1038/s42005-021-00695-0)
 * __Y. Zhang__ and A. E. Motter, *Symmetry-independent stability analysis of synchronization patterns*, [SIAM Rev. 62, 817–836 (2020)](https://doi.org/10.1137/19M127358X)
-* J. D. Hart, __Y. Zhang__, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: trading symmetry for stability*, [Phys. Rev. Lett. 122, 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
+* J. D. Hart, __Y. Zhang__, R. Roy, and A. E. Motter, *Topological control of synchronization patterns: Trading symmetry for stability*, [Phys. Rev. Lett. 122, 058301 (2019)](https://doi.org/10.1103/PhysRevLett.122.058301)
 * F. M. Brady, __Y. Zhang__, and A. E. Motter, *Forget partitions: Cluster synchronization in directed networks generate hierarchies*, [arXiv:2106.13220](https://arxiv.org/abs/2106.13220)
 
 ## Chimera states

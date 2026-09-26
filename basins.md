@@ -15,10 +15,10 @@ What do basins look like in high-dimensional systems?
 * __Y. Zhang__ and S. H. Strogatz, *Basins with tentacles*, [Phys. Rev. Lett. 127, 194101 (2021)](https://doi.org/10.1103/PhysRevLett.127.194101)
 
 Do higher-order interactions expand or shrink basins?
-* __Y. Zhang__, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [Sci. Adv. 10, ado8049 (2024)](https://doi.org/10.1126/sciadv.ado8049)
+* __Y. Zhang__, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [Sci. Adv. 10, eado8049 (2024)](https://doi.org/10.1126/sciadv.ado8049)
 
 How do basin sizes scale?
-* P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__, *The size of the sync basin resolved*, [Phys. Rev. E 112, L052201 (2025)](https://doi.org/10.1103/pb4f-kqzq)
+* P. Groisman, C. De Vita, J. F. Bonder, and __Y. Zhang__, *Size of the sync basin resolved*, [Phys. Rev. E 112, L052201 (2025)](https://doi.org/10.1103/pb4f-kqzq)
 
 ## Fractal basins
 Can we learn complicated basins from data using machine learning?

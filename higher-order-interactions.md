@@ -16,7 +16,7 @@ Do higher-order interactions promote synchronization? Should we use hypergraphs 
 * __Y. Zhang__, M. Lucas, and F. Battiston, *Higher-order interactions shape collective dynamics differently in hypergraphs and simplicial complexes*, [Nat. Commun. 14, 1605 (2023)](https://doi.org/10.1038/s41467-023-37190-9)
 
 Can higher-order interactions affect linear stability and basin stability differently?
-* __Y. Zhang__, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [Sci. Adv. 10, ado8049 (2024)](https://doi.org/10.1126/sciadv.ado8049)
+* __Y. Zhang__, P. S. Skardal, F. Battiston, G. Petri, and M. Lucas, *Deeper but smaller: Higher-order interactions increase linear stability but shrink basins*, [Sci. Adv. 10, eado8049 (2024)](https://doi.org/10.1126/sciadv.ado8049)
 * P. S. Skardal, F. Battiston, M. Lucas, M. S. Mizuhara, G. Petri, and __Y. Zhang__, *Mixed higher-order coupling stabilizes new states*, [arXiv:2510.09387](https://arxiv.org/abs/2510.09387)
 
 ## Hypergraphs from dynamics
